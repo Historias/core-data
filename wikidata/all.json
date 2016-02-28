@@ -14,15 +14,6 @@
         "url": "https://www.wikidata.org/wiki/Q12536"
     },
     {
-        "uuid": "7266f666-d07f-4f48-ba14-92e5a336d4f4",
-        "name": "Abbasid caliphate",
-        "span": {
-            "begin": "0750-01-01T00:00:00Z",
-            "end": "1258-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q12536"
-    },
-    {
         "uuid": "f82924f5-1248-4fd7-b898-83d283bda4b9",
         "name": "Abyssinia",
         "span": {
@@ -485,6 +476,15 @@
         "url": "https://www.wikidata.org/wiki/Q719183"
     },
     {
+        "uuid": "01d95666-0caf-43cf-bc73-2357001ea0f6",
+        "name": "Argentine Confederation",
+        "span": {
+            "begin": "1831-01-01T00:00:00Z",
+            "end": "1861-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q832554"
+    },
+    {
         "uuid": "b4768837-99a0-4b5f-9d25-2a3a1d0a4ccf",
         "name": "Armenia",
         "three_letter_iso_code": "ARM",
@@ -505,15 +505,6 @@
             "begin": "1816-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q414"
-    },
-    {
-        "uuid": "01d95666-0caf-43cf-bc73-2357001ea0f6",
-        "name": "Argentine Confederation",
-        "span": {
-            "begin": "1831-01-01T00:00:00Z",
-            "end": "1861-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q832554"
     },
     {
         "uuid": "6f808c88-45ac-49cd-a700-4a0d924d2be9",
@@ -648,15 +639,6 @@
             "end": "1918-11-11T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q28513"
-    },
-    {
-        "uuid": "be6bf6e2-ce43-475c-83fb-4e56031ab987",
-        "name": "Austrian Empire",
-        "span": {
-            "begin": "1804-01-01T00:00:00Z",
-            "end": "1867-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q131964"
     },
     {
         "uuid": "be6bf6e2-ce43-475c-83fb-4e56031ab987",
@@ -822,15 +804,6 @@
         "uuid": "f4127a7c-5caa-4e01-9b85-213d0d6b75a9",
         "name": "Babylonia",
         "url": "https://www.wikidata.org/wiki/Q47690"
-    },
-    {
-        "uuid": "b3f08f09-7fc7-4cc2-9283-faef60bd3b0d",
-        "name": "Baden",
-        "span": {
-            "begin": "1112-01-01T00:00:00Z",
-            "end": "1945-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q6877935"
     },
     {
         "uuid": "b3f08f09-7fc7-4cc2-9283-faef60bd3b0d",
@@ -1073,6 +1046,25 @@
         "url": "https://www.wikidata.org/wiki/Q31"
     },
     {
+        "uuid": "6f6d7bbf-81a1-404a-a73f-46b30bcdd6ab",
+        "name": "Benin",
+        "three_letter_iso_code": "BEN",
+        "two_letter_iso_code": "BJ",
+        "numeric_iso_code": "204",
+        "span": {
+            "begin": "1960-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q962"
+    },
+    {
+        "uuid": "37ee445a-3cc9-488a-a669-08853d001f11",
+        "name": "Bhutan",
+        "three_letter_iso_code": "BTN",
+        "two_letter_iso_code": "BT",
+        "numeric_iso_code": "064",
+        "url": "https://www.wikidata.org/wiki/Q917"
+    },
+    {
         "uuid": "72f19fb6-a3c2-42ed-84dc-127afe7b9e4c",
         "name": "Belarus",
         "three_letter_iso_code": "BLR",
@@ -1087,17 +1079,6 @@
         "uuid": "f0ce1d12-2550-4c1a-b64f-ae830f121bfd",
         "name": "Bengal",
         "url": "https://www.wikidata.org/wiki/Q80338"
-    },
-    {
-        "uuid": "6f6d7bbf-81a1-404a-a73f-46b30bcdd6ab",
-        "name": "Benin",
-        "three_letter_iso_code": "BEN",
-        "two_letter_iso_code": "BJ",
-        "numeric_iso_code": "204",
-        "span": {
-            "begin": "1960-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q962"
     },
     {
         "uuid": "973e746d-4b74-4a6f-b48d-4565b9ef8b9b",
@@ -1163,14 +1144,6 @@
         "uuid": "c9dfec53-0acf-4569-98e8-a9b25e2a7937",
         "name": "Bhor State",
         "url": "https://www.wikidata.org/wiki/Q855058"
-    },
-    {
-        "uuid": "37ee445a-3cc9-488a-a669-08853d001f11",
-        "name": "Bhutan",
-        "three_letter_iso_code": "BTN",
-        "two_letter_iso_code": "BT",
-        "numeric_iso_code": "064",
-        "url": "https://www.wikidata.org/wiki/Q917"
     },
     {
         "uuid": "8e1cc826-6c6a-4cf8-9945-b803e1e42351",
@@ -1245,19 +1218,6 @@
         "url": "https://www.wikidata.org/wiki/Q644979"
     },
     {
-        "uuid": "0d14f297-4b5a-45f2-8170-7b70a5fc7bc1",
-        "name": "Bonai State",
-        "url": "https://www.wikidata.org/wiki/Q892061"
-    },
-    {
-        "uuid": "efe7c0de-5e59-4146-9e9c-a7b15542c9bc",
-        "name": "Bosnia and Herzegovina",
-        "three_letter_iso_code": "BIH",
-        "two_letter_iso_code": "BA",
-        "numeric_iso_code": "070",
-        "url": "https://www.wikidata.org/wiki/Q225"
-    },
-    {
         "uuid": "ddb66ff2-ec51-47ce-b763-48e71879260d",
         "name": "Bolivia",
         "three_letter_iso_code": "BOL",
@@ -1267,6 +1227,11 @@
             "begin": "1825-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q750"
+    },
+    {
+        "uuid": "0d14f297-4b5a-45f2-8170-7b70a5fc7bc1",
+        "name": "Bonai State",
+        "url": "https://www.wikidata.org/wiki/Q892061"
     },
     {
         "uuid": "c066c77b-cbfe-4de6-8a26-3560047fb5c4",
@@ -1293,6 +1258,14 @@
         "url": "https://www.wikidata.org/wiki/Q1851834"
     },
     {
+        "uuid": "efe7c0de-5e59-4146-9e9c-a7b15542c9bc",
+        "name": "Bosnia and Herzegovina",
+        "three_letter_iso_code": "BIH",
+        "two_letter_iso_code": "BA",
+        "numeric_iso_code": "070",
+        "url": "https://www.wikidata.org/wiki/Q225"
+    },
+    {
         "uuid": "338c9d14-cf59-4050-bb54-22b15c86b50f",
         "name": "Bosporan Kingdom",
         "span": {
@@ -1300,17 +1273,6 @@
             "end": "0370-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q321371"
-    },
-    {
-        "uuid": "0c155cad-cd8a-45d4-bdb3-2662e26a659f",
-        "name": "Brazil",
-        "three_letter_iso_code": "BRA",
-        "two_letter_iso_code": "BR",
-        "numeric_iso_code": "076",
-        "span": {
-            "begin": "1822-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q155"
     },
     {
         "uuid": "3d0ff56b-e733-4c7e-b817-8f75bf142ad6",
@@ -1342,6 +1304,17 @@
             "end": "1701-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q157367"
+    },
+    {
+        "uuid": "0c155cad-cd8a-45d4-bdb3-2662e26a659f",
+        "name": "Brazil",
+        "three_letter_iso_code": "BRA",
+        "two_letter_iso_code": "BR",
+        "numeric_iso_code": "076",
+        "span": {
+            "begin": "1822-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q155"
     },
     {
         "uuid": "24793592-6096-408b-a3e3-fbaf6059b41a",
@@ -1380,14 +1353,6 @@
         "url": "https://www.wikidata.org/wiki/Q797527"
     },
     {
-        "uuid": "46012696-79b7-4622-8408-23c29617a310",
-        "name": "Brunei",
-        "three_letter_iso_code": "BRN",
-        "two_letter_iso_code": "BN",
-        "numeric_iso_code": "096",
-        "url": "https://www.wikidata.org/wiki/Q921"
-    },
-    {
         "uuid": "2d8d2475-7092-48d3-86e1-360bdbbc2d0d",
         "name": "Buganda",
         "url": "https://www.wikidata.org/wiki/Q473748"
@@ -1405,14 +1370,6 @@
             "end": "1924-00-00T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q68682"
-    },
-    {
-        "uuid": "d34f46f4-4be7-4b4f-b1aa-4eba15cea871",
-        "name": "Bulgaria",
-        "three_letter_iso_code": "BGR",
-        "two_letter_iso_code": "BG",
-        "numeric_iso_code": "100",
-        "url": "https://www.wikidata.org/wiki/Q219"
     },
     {
         "uuid": "d809835b-45e8-476b-9e67-59f9dc009efb",
@@ -1442,12 +1399,28 @@
         "url": "https://www.wikidata.org/wiki/Q965"
     },
     {
+        "uuid": "d34f46f4-4be7-4b4f-b1aa-4eba15cea871",
+        "name": "Bulgaria",
+        "three_letter_iso_code": "BGR",
+        "two_letter_iso_code": "BG",
+        "numeric_iso_code": "100",
+        "url": "https://www.wikidata.org/wiki/Q219"
+    },
+    {
         "uuid": "06315fd2-42e8-44c6-a31e-d370a8e00d7a",
         "name": "Burundi",
         "three_letter_iso_code": "BDI",
         "two_letter_iso_code": "BI",
         "numeric_iso_code": "108",
         "url": "https://www.wikidata.org/wiki/Q967"
+    },
+    {
+        "uuid": "46012696-79b7-4622-8408-23c29617a310",
+        "name": "Brunei",
+        "three_letter_iso_code": "BRN",
+        "two_letter_iso_code": "BN",
+        "numeric_iso_code": "096",
+        "url": "https://www.wikidata.org/wiki/Q921"
     },
     {
         "uuid": "7d3b3c37-7ec0-4adf-8b9c-c4d93134dc80",
@@ -2192,14 +2165,6 @@
         "url": "https://www.wikidata.org/wiki/Q953432"
     },
     {
-        "uuid": "71fc775f-38b4-450c-b800-6e3e8989f454",
-        "name": "Couto Misto",
-        "span": {
-            "end": "1868-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q953432"
-    },
-    {
         "uuid": "73617f87-4c24-433f-904f-64f7482fa6b8",
         "name": "Cretan State",
         "span": {
@@ -2235,6 +2200,17 @@
         "uuid": "ad1a2178-429d-4769-b5de-454779fa1f0c",
         "name": "Crimean Socialist Soviet Republic",
         "url": "https://www.wikidata.org/wiki/Q1842362"
+    },
+    {
+        "uuid": "c76ccc2e-eee0-41c1-b6e0-780a83405a74",
+        "name": "Croatia",
+        "three_letter_iso_code": "HRV",
+        "two_letter_iso_code": "HR",
+        "numeric_iso_code": "191",
+        "span": {
+            "begin": "1991-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q224"
     },
     {
         "uuid": "e26062bd-24c6-4cfd-afee-2c9c9f57d1df",
@@ -2273,6 +2249,14 @@
         "url": "https://www.wikidata.org/wiki/Q217196"
     },
     {
+        "uuid": "c1592f17-d3d9-4a5f-a3ad-7c39f5c6dfcc",
+        "name": "Cuba",
+        "three_letter_iso_code": "CUB",
+        "two_letter_iso_code": "CU",
+        "numeric_iso_code": "192",
+        "url": "https://www.wikidata.org/wiki/Q241"
+    },
+    {
         "uuid": "4d5307bb-cc89-408f-a877-868be58514c3",
         "name": "Cutch State",
         "span": {
@@ -2290,27 +2274,6 @@
         "url": "https://www.wikidata.org/wiki/Q229"
     },
     {
-        "uuid": "310d4823-261c-41bc-9e85-1590482c2d22",
-        "name": "Czechoslovak declaration of independence",
-        "url": "https://www.wikidata.org/wiki/Q3508048"
-    },
-    {
-        "uuid": "6b68b79c-a09e-4f60-8ff0-66712a04eefc",
-        "name": "Democratic Republic of the Congo",
-        "three_letter_iso_code": "COD",
-        "two_letter_iso_code": "CD",
-        "numeric_iso_code": "180",
-        "url": "https://www.wikidata.org/wiki/Q974"
-    },
-    {
-        "uuid": "c1592f17-d3d9-4a5f-a3ad-7c39f5c6dfcc",
-        "name": "Cuba",
-        "three_letter_iso_code": "CUB",
-        "two_letter_iso_code": "CU",
-        "numeric_iso_code": "192",
-        "url": "https://www.wikidata.org/wiki/Q241"
-    },
-    {
         "uuid": "8d192b45-0774-487b-8f1c-83fa62f14af5",
         "name": "Czech and Slovak Federal Republic",
         "span": {
@@ -2318,6 +2281,11 @@
             "end": "1992-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1998866"
+    },
+    {
+        "uuid": "310d4823-261c-41bc-9e85-1590482c2d22",
+        "name": "Czechoslovak declaration of independence",
+        "url": "https://www.wikidata.org/wiki/Q3508048"
     },
     {
         "uuid": "c50da1e3-a1d8-46b4-add1-9a2eac97d9ac",
@@ -2330,17 +2298,6 @@
             "end": "1992-12-31T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q33946"
-    },
-    {
-        "uuid": "c76ccc2e-eee0-41c1-b6e0-780a83405a74",
-        "name": "Croatia",
-        "three_letter_iso_code": "HRV",
-        "two_letter_iso_code": "HR",
-        "numeric_iso_code": "191",
-        "span": {
-            "begin": "1991-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q224"
     },
     {
         "uuid": "7e46c87f-51ba-45b2-96f5-f759e04df55a",
@@ -2403,13 +2360,13 @@
         "url": "https://www.wikidata.org/wiki/Q468814"
     },
     {
-        "uuid": "10d1f75b-a458-497f-846a-ca7409a2101b",
+        "uuid": "37971414-384a-4cad-9976-e965d261a1c5",
         "name": "Dai",
         "span": {
-            "begin": "-0228-11-26T00:00:00Z",
-            "end": "-0223-11-26T00:00:00Z"
+            "begin": "0310-01-01T00:00:00Z",
+            "end": "0376-01-01T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q5208973"
+        "url": "https://www.wikidata.org/wiki/Q1149098"
     },
     {
         "uuid": "55bc6872-6271-476d-9e6f-d1a547e3198b",
@@ -2420,13 +2377,13 @@
         "url": "https://www.wikidata.org/wiki/Q3381713"
     },
     {
-        "uuid": "37971414-384a-4cad-9976-e965d261a1c5",
+        "uuid": "10d1f75b-a458-497f-846a-ca7409a2101b",
         "name": "Dai",
         "span": {
-            "begin": "0310-01-01T00:00:00Z",
-            "end": "0376-01-01T00:00:00Z"
+            "begin": "-0228-11-26T00:00:00Z",
+            "end": "-0223-11-26T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q1149098"
+        "url": "https://www.wikidata.org/wiki/Q5208973"
     },
     {
         "uuid": "8031c758-a562-4206-b8f9-96777a4832b1",
@@ -2538,6 +2495,14 @@
             "end": "1921-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q245160"
+    },
+    {
+        "uuid": "6b68b79c-a09e-4f60-8ff0-66712a04eefc",
+        "name": "Democratic Republic of the Congo",
+        "three_letter_iso_code": "COD",
+        "two_letter_iso_code": "CD",
+        "numeric_iso_code": "180",
+        "url": "https://www.wikidata.org/wiki/Q974"
     },
     {
         "uuid": "4171f6b5-ec5b-4061-be38-1069d9414d66",
@@ -2847,15 +2812,6 @@
         "url": "https://www.wikidata.org/wiki/Q2360973"
     },
     {
-        "uuid": "25f75838-da4d-42a7-830e-f6ac552dcbf9",
-        "name": "Duchy of Courland and Semigallia",
-        "span": {
-            "begin": "1918-00-00T00:00:00Z",
-            "end": "1918-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1991540"
-    },
-    {
         "uuid": "7d4af654-91c4-4d11-b552-6a56456c411b",
         "name": "Duchy of Courland and Semigallia",
         "span": {
@@ -2863,6 +2819,15 @@
             "end": "1795-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q156038"
+    },
+    {
+        "uuid": "25f75838-da4d-42a7-830e-f6ac552dcbf9",
+        "name": "Duchy of Courland and Semigallia",
+        "span": {
+            "begin": "1918-00-00T00:00:00Z",
+            "end": "1918-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q1991540"
     },
     {
         "uuid": "66d6cccd-3db9-4b01-a53e-d7c39fd85306",
@@ -3114,15 +3079,6 @@
         "url": "https://www.wikidata.org/wiki/Q170072"
     },
     {
-        "uuid": "63787cd2-c85a-49a3-bad4-60f9956b9206",
-        "name": "Dutch Republic",
-        "span": {
-            "begin": "1581-07-26T00:00:00Z",
-            "end": "1795-01-19T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q170072"
-    },
-    {
         "uuid": "04e52e64-bf04-45b0-91db-9d910d19f0e9",
         "name": "Dvaravati",
         "url": "https://www.wikidata.org/wiki/Q1268307"
@@ -3165,11 +3121,6 @@
         "url": "https://www.wikidata.org/wiki/Q6773257"
     },
     {
-        "uuid": "bba11417-2d35-4c85-9a95-84282a81628d",
-        "name": "Eastern Karakhanids Khanate",
-        "url": "https://www.wikidata.org/wiki/Q6773257"
-    },
-    {
         "uuid": "dd143a24-d778-497a-b966-6f604d638b4f",
         "name": "Eastern States Union",
         "url": "https://www.wikidata.org/wiki/Q1278242"
@@ -3191,11 +3142,6 @@
             "end": "0280-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q274488"
-    },
-    {
-        "uuid": "ce8076c9-2177-42d3-8442-b9dd28e76184",
-        "name": "East Francia",
-        "url": "https://www.wikidata.org/wiki/Q153080"
     },
     {
         "uuid": "ce8076c9-2177-42d3-8442-b9dd28e76184",
@@ -3239,11 +3185,6 @@
         "url": "https://www.wikidata.org/wiki/Q840601"
     },
     {
-        "uuid": "ff507c8d-34af-460e-b2d1-b5c331abfecf",
-        "name": "Economy of England in the Middle Ages",
-        "url": "https://www.wikidata.org/wiki/Q3087872"
-    },
-    {
         "uuid": "49eaf941-4a73-4fe9-9942-6006ecd97b5f",
         "name": "Ecuador",
         "three_letter_iso_code": "ECU",
@@ -3255,6 +3196,19 @@
         "url": "https://www.wikidata.org/wiki/Q736"
     },
     {
+        "uuid": "9943c1b3-08b3-4ef3-b1b4-6a3d883349a0",
+        "name": "East Timor",
+        "three_letter_iso_code": "TLS",
+        "two_letter_iso_code": "TL",
+        "numeric_iso_code": "626",
+        "url": "https://www.wikidata.org/wiki/Q574"
+    },
+    {
+        "uuid": "ff507c8d-34af-460e-b2d1-b5c331abfecf",
+        "name": "Economy of England in the Middle Ages",
+        "url": "https://www.wikidata.org/wiki/Q3087872"
+    },
+    {
         "uuid": "d4da3b60-671b-479e-8e0f-1c031650ae24",
         "name": "Edeirnion",
         "url": "https://www.wikidata.org/wiki/Q2989320"
@@ -3263,6 +3217,14 @@
         "uuid": "0e1eb339-6f86-463f-9f01-522599ddefbe",
         "name": "Edom",
         "url": "https://www.wikidata.org/wiki/Q208475"
+    },
+    {
+        "uuid": "d093f8c4-0e9c-4e61-a665-de4a95ae3c77",
+        "name": "Egypt",
+        "three_letter_iso_code": "EGY",
+        "two_letter_iso_code": "EG",
+        "numeric_iso_code": "818",
+        "url": "https://www.wikidata.org/wiki/Q79"
     },
     {
         "uuid": "b5101d10-b4d7-40b4-ae62-38e1f91289ca",
@@ -3295,6 +3257,17 @@
             "end": "0627-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1333032"
+    },
+    {
+        "uuid": "011aa284-ca20-43ce-8177-e68514365592",
+        "name": "El Salvador",
+        "three_letter_iso_code": "SLV",
+        "two_letter_iso_code": "SV",
+        "numeric_iso_code": "222",
+        "span": {
+            "begin": "1842-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q792"
     },
     {
         "uuid": "666f891c-bb6e-4564-8445-fe35d3f2f8ff",
@@ -3486,6 +3459,28 @@
         "url": "https://www.wikidata.org/wiki/Q327179"
     },
     {
+        "uuid": "5bad110f-b129-4f76-be0b-6697df1f07d0",
+        "name": "Estonia",
+        "three_letter_iso_code": "EST",
+        "two_letter_iso_code": "EE",
+        "numeric_iso_code": "233",
+        "span": {
+            "begin": "1918-02-24T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q191"
+    },
+    {
+        "uuid": "0a4521a3-98e3-43a9-8274-7bc4059206a1",
+        "name": "Eritrea",
+        "three_letter_iso_code": "ERI",
+        "two_letter_iso_code": "ER",
+        "numeric_iso_code": "232",
+        "span": {
+            "begin": "1993-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q986"
+    },
+    {
         "uuid": "137ba966-7ac4-4da6-ac39-c8fecbae5f8d",
         "name": "Erivan Khanate",
         "span": {
@@ -3509,81 +3504,12 @@
         "url": "https://www.wikidata.org/wiki/Q824489"
     },
     {
-        "uuid": "5bad110f-b129-4f76-be0b-6697df1f07d0",
-        "name": "Estonia",
-        "three_letter_iso_code": "EST",
-        "two_letter_iso_code": "EE",
-        "numeric_iso_code": "233",
-        "span": {
-            "begin": "1918-02-24T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q191"
-    },
-    {
-        "uuid": "d093f8c4-0e9c-4e61-a665-de4a95ae3c77",
-        "name": "Egypt",
-        "three_letter_iso_code": "EGY",
-        "two_letter_iso_code": "EG",
-        "numeric_iso_code": "818",
-        "url": "https://www.wikidata.org/wiki/Q79"
-    },
-    {
-        "uuid": "0a4521a3-98e3-43a9-8274-7bc4059206a1",
-        "name": "Eritrea",
-        "three_letter_iso_code": "ERI",
-        "two_letter_iso_code": "ER",
-        "numeric_iso_code": "232",
-        "span": {
-            "begin": "1993-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q986"
-    },
-    {
         "uuid": "0ecb2cbc-be8f-422c-8668-38975e47e492",
         "name": "Ethiopia",
         "three_letter_iso_code": "ETH",
         "two_letter_iso_code": "ET",
         "numeric_iso_code": "231",
         "url": "https://www.wikidata.org/wiki/Q115"
-    },
-    {
-        "uuid": "ca7872a1-bb33-4be8-837f-0911ddb7fcb7",
-        "name": "Equatorial Guinea",
-        "three_letter_iso_code": "GNQ",
-        "two_letter_iso_code": "GQ",
-        "numeric_iso_code": "226",
-        "url": "https://www.wikidata.org/wiki/Q983"
-    },
-    {
-        "uuid": "15267c1a-3a3c-411e-bbb2-791deb307cfe",
-        "name": "Empire of Japan",
-        "three_letter_iso_code": "JPN",
-        "two_letter_iso_code": "JP",
-        "numeric_iso_code": "392",
-        "span": {
-            "begin": "1868-01-03T00:00:00Z",
-            "end": "1947-05-03T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q188712"
-    },
-    {
-        "uuid": "011aa284-ca20-43ce-8177-e68514365592",
-        "name": "El Salvador",
-        "three_letter_iso_code": "SLV",
-        "two_letter_iso_code": "SV",
-        "numeric_iso_code": "222",
-        "span": {
-            "begin": "1842-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q792"
-    },
-    {
-        "uuid": "9943c1b3-08b3-4ef3-b1b4-6a3d883349a0",
-        "name": "East Timor",
-        "three_letter_iso_code": "TLS",
-        "two_letter_iso_code": "TL",
-        "numeric_iso_code": "626",
-        "url": "https://www.wikidata.org/wiki/Q574"
     },
     {
         "uuid": "403ccb98-1e02-4792-92dd-377e11d280b4",
@@ -3655,6 +3581,26 @@
         "two_letter_iso_code": "FM",
         "numeric_iso_code": "583",
         "url": "https://www.wikidata.org/wiki/Q702"
+    },
+    {
+        "uuid": "ca7872a1-bb33-4be8-837f-0911ddb7fcb7",
+        "name": "Equatorial Guinea",
+        "three_letter_iso_code": "GNQ",
+        "two_letter_iso_code": "GQ",
+        "numeric_iso_code": "226",
+        "url": "https://www.wikidata.org/wiki/Q983"
+    },
+    {
+        "uuid": "15267c1a-3a3c-411e-bbb2-791deb307cfe",
+        "name": "Empire of Japan",
+        "three_letter_iso_code": "JPN",
+        "two_letter_iso_code": "JP",
+        "numeric_iso_code": "392",
+        "span": {
+            "begin": "1868-01-03T00:00:00Z",
+            "end": "1947-05-03T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q188712"
     },
     {
         "uuid": "2b91e00d-742c-4dd7-b461-8aedda3429a6",
@@ -3743,15 +3689,6 @@
             "end": "1930-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q2414171"
-    },
-    {
-        "uuid": "cb092c54-b333-469d-b2be-e59354bd2bc0",
-        "name": "First Czechoslovak Republic",
-        "span": {
-            "begin": "1918-01-01T00:00:00Z",
-            "end": "1938-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q140359"
     },
     {
         "uuid": "cb092c54-b333-469d-b2be-e59354bd2bc0",
@@ -3911,6 +3848,17 @@
             "end": "1981-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q488521"
+    },
+    {
+        "uuid": "2a24b0d3-8c37-444a-9408-f0f197abe5fd",
+        "name": "Germany",
+        "three_letter_iso_code": "DEU",
+        "two_letter_iso_code": "DE",
+        "numeric_iso_code": "276",
+        "span": {
+            "begin": "1871-01-18T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q183"
     },
     {
         "uuid": "109988d9-3fb1-4dc6-b806-e7b2778ab106",
@@ -4180,15 +4128,6 @@
         "url": "https://www.wikidata.org/wiki/Q151624"
     },
     {
-        "uuid": "e4e7f00e-b05d-4b1b-8398-a861692d021a",
-        "name": "German Confederation",
-        "span": {
-            "begin": "1815-01-01T00:00:00Z",
-            "end": "1866-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q151624"
-    },
-    {
         "uuid": "5af3e51e-e663-4b41-a74f-d675f05f99a4",
         "name": "German Empire",
         "span": {
@@ -4204,17 +4143,6 @@
             "begin": "1848-06-28T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q18285930"
-    },
-    {
-        "uuid": "2a24b0d3-8c37-444a-9408-f0f197abe5fd",
-        "name": "Germany",
-        "three_letter_iso_code": "DEU",
-        "two_letter_iso_code": "DE",
-        "numeric_iso_code": "276",
-        "span": {
-            "begin": "1871-01-18T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q183"
     },
     {
         "uuid": "b4208ebd-6c72-41f4-b7ff-d9f6b329c8e3",
@@ -4468,42 +4396,6 @@
         "url": "https://www.wikidata.org/wiki/Q2336882"
     },
     {
-        "uuid": "a24e02f6-71a5-4a2b-887f-2ee8c759345f",
-        "name": "Grodno Sejm",
-        "url": "https://www.wikidata.org/wiki/Q1661055"
-    },
-    {
-        "uuid": "f46b9cc7-635e-4101-ac01-fed86bdd310a",
-        "name": "Großherzogtum Hessen",
-        "span": {
-            "begin": "1806-01-01T00:00:00Z",
-            "end": "1918-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q20135"
-    },
-    {
-        "uuid": "c30c5fed-bb13-4bc6-b177-3d78408837bb",
-        "name": "Guelders",
-        "span": {
-            "begin": "1096-01-01T00:00:00Z",
-            "end": "1795-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q152420"
-    },
-    {
-        "uuid": "94eddc5f-cc6c-4075-9874-6420a34a09bb",
-        "name": "Guge",
-        "url": "https://www.wikidata.org/wiki/Q1193554"
-    },
-    {
-        "uuid": "c4f875b7-ced9-44c9-85f9-5596659a7ab1",
-        "name": "Ivory Coast",
-        "three_letter_iso_code": "CIV",
-        "two_letter_iso_code": "CI",
-        "numeric_iso_code": "384",
-        "url": "https://www.wikidata.org/wiki/Q1008"
-    },
-    {
         "uuid": "712da283-37fb-400c-bf3b-a1eedb39110e",
         "name": "Guinea",
         "three_letter_iso_code": "GIN",
@@ -4523,6 +4415,20 @@
         "url": "https://www.wikidata.org/wiki/Q41"
     },
     {
+        "uuid": "a24e02f6-71a5-4a2b-887f-2ee8c759345f",
+        "name": "Grodno Sejm",
+        "url": "https://www.wikidata.org/wiki/Q1661055"
+    },
+    {
+        "uuid": "f46b9cc7-635e-4101-ac01-fed86bdd310a",
+        "name": "Großherzogtum Hessen",
+        "span": {
+            "begin": "1806-01-01T00:00:00Z",
+            "end": "1918-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q20135"
+    },
+    {
         "uuid": "fc88d874-6f9a-4659-82db-5866e3ba9d46",
         "name": "Guatemala",
         "three_letter_iso_code": "GTM",
@@ -4532,6 +4438,20 @@
             "begin": "1821-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q774"
+    },
+    {
+        "uuid": "c30c5fed-bb13-4bc6-b177-3d78408837bb",
+        "name": "Guelders",
+        "span": {
+            "begin": "1096-01-01T00:00:00Z",
+            "end": "1795-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q152420"
+    },
+    {
+        "uuid": "94eddc5f-cc6c-4075-9874-6420a34a09bb",
+        "name": "Guge",
+        "url": "https://www.wikidata.org/wiki/Q1193554"
     },
     {
         "uuid": "28f59290-0e83-43b4-a3d0-35c29e9929f1",
@@ -4804,15 +4724,6 @@
         "url": "https://www.wikidata.org/wiki/Q12548"
     },
     {
-        "uuid": "69f10195-d2bb-40a1-9d3d-365bfd33d65a",
-        "name": "Holy Roman Empire",
-        "span": {
-            "begin": "0962-01-01T00:00:00Z",
-            "end": "1806-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q12548"
-    },
-    {
         "uuid": "8ddac995-0dfe-4310-a3a4-71bc52a634c4",
         "name": "Honduras",
         "three_letter_iso_code": "HND",
@@ -4902,6 +4813,17 @@
         "url": "https://www.wikidata.org/wiki/Q377350"
     },
     {
+        "uuid": "5e6b595a-1974-4525-940c-4bb97fd9e40f",
+        "name": "Iceland",
+        "three_letter_iso_code": "ISL",
+        "two_letter_iso_code": "IS",
+        "numeric_iso_code": "352",
+        "span": {
+            "begin": "1944-06-17T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q189"
+    },
+    {
         "uuid": "f6fb37a4-257c-465b-832e-69ab42f184fb",
         "name": "Idalium",
         "url": "https://www.wikidata.org/wiki/Q1656624"
@@ -4975,6 +4897,14 @@
             "end": "1945-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q153128"
+    },
+    {
+        "uuid": "4746c577-c6d0-4f1e-884b-2f819aa10db1",
+        "name": "India",
+        "three_letter_iso_code": "IND",
+        "two_letter_iso_code": "IN",
+        "numeric_iso_code": "356",
+        "url": "https://www.wikidata.org/wiki/Q668"
     },
     {
         "uuid": "a1536aab-15e1-4486-b100-8cf21aa6358e",
@@ -5071,14 +5001,6 @@
         "url": "https://www.wikidata.org/wiki/Q1140152"
     },
     {
-        "uuid": "4746c577-c6d0-4f1e-884b-2f819aa10db1",
-        "name": "India",
-        "three_letter_iso_code": "IND",
-        "two_letter_iso_code": "IN",
-        "numeric_iso_code": "356",
-        "url": "https://www.wikidata.org/wiki/Q668"
-    },
-    {
         "uuid": "7e06470b-a610-45b9-be30-36f47c11679c",
         "name": "Iraq",
         "three_letter_iso_code": "IRQ",
@@ -5093,17 +5015,6 @@
         "two_letter_iso_code": "IR",
         "numeric_iso_code": "364",
         "url": "https://www.wikidata.org/wiki/Q794"
-    },
-    {
-        "uuid": "5e6b595a-1974-4525-940c-4bb97fd9e40f",
-        "name": "Iceland",
-        "three_letter_iso_code": "ISL",
-        "two_letter_iso_code": "IS",
-        "numeric_iso_code": "352",
-        "span": {
-            "begin": "1944-06-17T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q189"
     },
     {
         "uuid": "9b644df3-d191-4b8e-925a-c295412577c5",
@@ -5215,6 +5126,14 @@
         "url": "https://www.wikidata.org/wiki/Q10885162"
     },
     {
+        "uuid": "c4f875b7-ced9-44c9-85f9-5596659a7ab1",
+        "name": "Ivory Coast",
+        "three_letter_iso_code": "CIV",
+        "two_letter_iso_code": "CI",
+        "numeric_iso_code": "384",
+        "url": "https://www.wikidata.org/wiki/Q1008"
+    },
+    {
         "uuid": "f9367775-5f5b-4002-901c-13a8050352d7",
         "name": "Jabal Druze State",
         "span": {
@@ -5305,11 +5224,6 @@
             "begin": "1642-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q933413"
-    },
-    {
-        "uuid": "24cde4ce-8dd1-4db0-8223-ae6ddb682bd7",
-        "name": "Jeong-an kingdom",
-        "url": "https://www.wikidata.org/wiki/Q707128"
     },
     {
         "uuid": "24cde4ce-8dd1-4db0-8223-ae6ddb682bd7",
@@ -5665,6 +5579,17 @@
         "url": "https://www.wikidata.org/wiki/Q1433867"
     },
     {
+        "uuid": "58f937cd-beb8-409b-b49e-2977095e7297",
+        "name": "Kenya",
+        "three_letter_iso_code": "KEN",
+        "two_letter_iso_code": "KE",
+        "numeric_iso_code": "404",
+        "span": {
+            "begin": "1963-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q114"
+    },
+    {
         "uuid": "15b174e5-0444-44c9-988c-54ff813c5413",
         "name": "Kazakhstan",
         "three_letter_iso_code": "KAZ",
@@ -5683,17 +5608,6 @@
             "end": "1221-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q756895"
-    },
-    {
-        "uuid": "58f937cd-beb8-409b-b49e-2977095e7297",
-        "name": "Kenya",
-        "three_letter_iso_code": "KEN",
-        "two_letter_iso_code": "KE",
-        "numeric_iso_code": "404",
-        "span": {
-            "begin": "1963-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q114"
     },
     {
         "uuid": "06684721-9f02-4705-af62-b3f246a5cbdd",
@@ -5993,11 +5907,6 @@
         "url": "https://www.wikidata.org/wiki/Q771193"
     },
     {
-        "uuid": "efa19958-0665-4c72-812e-0de3605fdf8d",
-        "name": "Kingdom of Brittany",
-        "url": "https://www.wikidata.org/wiki/Q771193"
-    },
-    {
         "uuid": "d9295dae-8551-4ff0-a97a-3c6c3b95a419",
         "name": "Kingdom of Brycheiniog",
         "span": {
@@ -6163,14 +6072,6 @@
         "url": "https://www.wikidata.org/wiki/Q179876"
     },
     {
-        "uuid": "f93f47b1-9c77-4838-9cbb-344d1f7f21ae",
-        "name": "Kingdom of England",
-        "span": {
-            "end": "1707-04-30T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q179876"
-    },
-    {
         "uuid": "e69520a3-584b-450e-aed7-8470f769f20e",
         "name": "Kingdom of Essex",
         "span": {
@@ -6187,15 +6088,6 @@
             "end": "1919-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q615902"
-    },
-    {
-        "uuid": "2dfce7dd-4ab0-4b14-8b11-fe919780af96",
-        "name": "Kingdom of France",
-        "span": {
-            "begin": "0987-01-01T00:00:00Z",
-            "end": "1792-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q70972"
     },
     {
         "uuid": "2dfce7dd-4ab0-4b14-8b11-fe919780af96",
@@ -6289,15 +6181,6 @@
         "url": "https://www.wikidata.org/wiki/Q161885"
     },
     {
-        "uuid": "f7712d21-ab93-4fec-9d15-9114d5f818dd",
-        "name": "Kingdom of Great Britain",
-        "span": {
-            "begin": "1707-05-01T00:00:00Z",
-            "end": "1801-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q161885"
-    },
-    {
         "uuid": "bb40db2a-db09-4b5a-8756-9a089d3a8a62",
         "name": "Kingdom of Greece",
         "span": {
@@ -6322,15 +6205,6 @@
             "end": "1820-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1472105"
-    },
-    {
-        "uuid": "9e69b405-e097-431d-9d6f-a6f245e87a01",
-        "name": "Kingdom of Hanover",
-        "span": {
-            "begin": "1814-01-01T00:00:00Z",
-            "end": "1866-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q164079"
     },
     {
         "uuid": "9e69b405-e097-431d-9d6f-a6f245e87a01",
@@ -6416,15 +6290,6 @@
         "url": "https://www.wikidata.org/wiki/Q1069959"
     },
     {
-        "uuid": "f956e5db-fcaf-44f3-b8d0-483386f9829a",
-        "name": "Kingdom of Iraq",
-        "span": {
-            "begin": "1920-01-01T00:00:00Z",
-            "end": "1932-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q146720"
-    },
-    {
         "uuid": "36912d31-5921-427d-8543-3af3aaa7fed5",
         "name": "Kingdom of Iraq",
         "span": {
@@ -6432,6 +6297,15 @@
             "end": "1958-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q149805"
+    },
+    {
+        "uuid": "f956e5db-fcaf-44f3-b8d0-483386f9829a",
+        "name": "Kingdom of Iraq",
+        "span": {
+            "begin": "1920-01-01T00:00:00Z",
+            "end": "1932-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q146720"
     },
     {
         "uuid": "7eb73f5d-63b3-4414-966e-d07cac9afabb",
@@ -6443,15 +6317,6 @@
         "url": "https://www.wikidata.org/wiki/Q215530"
     },
     {
-        "uuid": "a83312d9-4116-435a-8c4d-8ef7c3c030fa",
-        "name": "Kingdom of Israel",
-        "span": {
-            "begin": "-1020-01-01T00:00:00Z",
-            "end": "-0930-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q3185305"
-    },
-    {
         "uuid": "5928ba5b-5e91-4858-a9b3-db6578a106a9",
         "name": "Kingdom of Israel",
         "span": {
@@ -6461,13 +6326,13 @@
         "url": "https://www.wikidata.org/wiki/Q230407"
     },
     {
-        "uuid": "3207f3e3-40bd-476f-904b-1f0954dd1a6f",
-        "name": "Kingdom of Italy",
+        "uuid": "a83312d9-4116-435a-8c4d-8ef7c3c030fa",
+        "name": "Kingdom of Israel",
         "span": {
-            "begin": "1861-03-17T00:00:00Z",
-            "end": "1946-06-18T00:00:00Z"
+            "begin": "-1020-01-01T00:00:00Z",
+            "end": "-0930-01-01T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q172579"
+        "url": "https://www.wikidata.org/wiki/Q3185305"
     },
     {
         "uuid": "3207f3e3-40bd-476f-904b-1f0954dd1a6f",
@@ -6540,15 +6405,6 @@
         "url": "https://www.wikidata.org/wiki/Q1530762"
     },
     {
-        "uuid": "c5e23f59-72a3-4802-be89-4b3775901aba",
-        "name": "Kingdom of Kandy",
-        "span": {
-            "begin": "1469-01-01T00:00:00Z",
-            "end": "1815-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1530762"
-    },
-    {
         "uuid": "62af3aee-37aa-4cd5-98e8-7441045962b4",
         "name": "Kingdom of Kartli",
         "span": {
@@ -6556,15 +6412,6 @@
             "end": "1762-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q195972"
-    },
-    {
-        "uuid": "7bd7aa7c-98f2-45ab-9733-4fb1dd8467cf",
-        "name": "Kingdom of Kartli-Kakheti",
-        "span": {
-            "begin": "1762-01-01T00:00:00Z",
-            "end": "1801-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q282475"
     },
     {
         "uuid": "7bd7aa7c-98f2-45ab-9733-4fb1dd8467cf",
@@ -6870,15 +6717,6 @@
         "url": "https://www.wikidata.org/wiki/Q1078602"
     },
     {
-        "uuid": "901463d8-98bb-47c2-9e81-c090590dc657",
-        "name": "Kingdom of Nepal",
-        "span": {
-            "begin": "1768-01-01T00:00:00Z",
-            "end": "2008-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1078602"
-    },
-    {
         "uuid": "704c47f8-46a4-416d-91ab-d7c69c8d0b84",
         "name": "Kingdom of Nicoya",
         "span": {
@@ -6891,15 +6729,6 @@
         "uuid": "56878d43-87d3-46a8-bfe2-bb2e961de48f",
         "name": "Kingdom of Northern Lusitania",
         "url": "https://www.wikidata.org/wiki/Q390827"
-    },
-    {
-        "uuid": "e652d551-bea1-4462-ab2e-0e475df8d927",
-        "name": "Kingdom of Northumbria",
-        "span": {
-            "begin": "0653-01-01T00:00:00Z",
-            "end": "0954-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q107299"
     },
     {
         "uuid": "e652d551-bea1-4462-ab2e-0e475df8d927",
@@ -6937,6 +6766,11 @@
         "url": "https://www.wikidata.org/wiki/Q577867"
     },
     {
+        "uuid": "4f134ee9-7940-497a-9e71-0ec98a1a268e",
+        "name": "Kingdom of Poland",
+        "url": "https://www.wikidata.org/wiki/Q8890160"
+    },
+    {
         "uuid": "950ab0a3-6774-4f39-af01-da3f02d35224",
         "name": "Kingdom of Poland",
         "span": {
@@ -6944,11 +6778,6 @@
             "end": "1918-00-00T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q696908"
-    },
-    {
-        "uuid": "4f134ee9-7940-497a-9e71-0ec98a1a268e",
-        "name": "Kingdom of Poland",
-        "url": "https://www.wikidata.org/wiki/Q8890160"
     },
     {
         "uuid": "34f47c13-ab3f-4e98-8b4d-0f6a55faea4b",
@@ -7051,15 +6880,6 @@
             "end": "1918-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q153015"
-    },
-    {
-        "uuid": "88c27f5d-fb83-4cdf-a1c4-ab9d66643154",
-        "name": "Kingdom of Scotland",
-        "span": {
-            "begin": "0842-12-04T00:00:00Z",
-            "end": "1707-04-30T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q230791"
     },
     {
         "uuid": "88c27f5d-fb83-4cdf-a1c4-ab9d66643154",
@@ -7680,6 +7500,17 @@
         "url": "https://www.wikidata.org/wiki/Q1154556"
     },
     {
+        "uuid": "9ecc0b2e-ea3e-487d-8bab-2d8e082c9a64",
+        "name": "Latvia",
+        "three_letter_iso_code": "LVA",
+        "two_letter_iso_code": "LV",
+        "numeric_iso_code": "428",
+        "span": {
+            "begin": "1918-11-18T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q211"
+    },
+    {
         "uuid": "dca3a2d4-9d90-4364-98af-adc0dcd190c5",
         "name": "Latvian Socialist Soviet Republic",
         "url": "https://www.wikidata.org/wiki/Q2300296"
@@ -7719,17 +7550,6 @@
         "url": "https://www.wikidata.org/wiki/Q1013"
     },
     {
-        "uuid": "9ecc0b2e-ea3e-487d-8bab-2d8e082c9a64",
-        "name": "Latvia",
-        "three_letter_iso_code": "LVA",
-        "two_letter_iso_code": "LV",
-        "numeric_iso_code": "428",
-        "span": {
-            "begin": "1918-11-18T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q211"
-    },
-    {
         "uuid": "7c63a0b2-5fa0-40e3-adcc-ace79c239c8f",
         "name": "Lezgistan",
         "url": "https://www.wikidata.org/wiki/Q2365056"
@@ -7744,24 +7564,16 @@
         "url": "https://www.wikidata.org/wiki/Q4958"
     },
     {
-        "uuid": "8ced9a9d-ecb5-41b7-813c-3ecab4a7cc42",
-        "name": "Liberia",
-        "three_letter_iso_code": "LBR",
-        "two_letter_iso_code": "LR",
-        "numeric_iso_code": "430",
+        "uuid": "de510ff2-ee23-4868-a1d8-fe079ca143c3",
+        "name": "Lithuanian–Belorussian Soviet Socialist Republic",
+        "three_letter_iso_code": "BYS",
+        "two_letter_iso_code": "BY",
+        "numeric_iso_code": "112",
         "span": {
-            "begin": "1847-01-01T00:00:00Z"
+            "begin": "1919-01-01T00:00:00Z",
+            "end": "1919-01-01T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q1014"
-    },
-    {
-        "uuid": "4356ffa5-c84e-4b29-8d14-f28113e2187c",
-        "name": "Libyan Arab Jamahiriya",
-        "span": {
-            "begin": "1969-01-01T00:00:00Z",
-            "end": "2011-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q6452956"
+        "url": "https://www.wikidata.org/wiki/Q76236"
     },
     {
         "uuid": "b3105511-ee1d-4ee0-a15d-a88b3cc11bc2",
@@ -7775,12 +7587,40 @@
         "url": "https://www.wikidata.org/wiki/Q347"
     },
     {
+        "uuid": "8ced9a9d-ecb5-41b7-813c-3ecab4a7cc42",
+        "name": "Liberia",
+        "three_letter_iso_code": "LBR",
+        "two_letter_iso_code": "LR",
+        "numeric_iso_code": "430",
+        "span": {
+            "begin": "1847-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q1014"
+    },
+    {
+        "uuid": "1f411118-2483-427a-b42a-e239f36f3433",
+        "name": "Lithuania",
+        "three_letter_iso_code": "LTU",
+        "two_letter_iso_code": "LT",
+        "numeric_iso_code": "440",
+        "url": "https://www.wikidata.org/wiki/Q37"
+    },
+    {
         "uuid": "10258278-619d-44cc-b0ec-fc99ae026e71",
         "name": "Libya",
         "three_letter_iso_code": "LBY",
         "two_letter_iso_code": "LY",
         "numeric_iso_code": "434",
         "url": "https://www.wikidata.org/wiki/Q1016"
+    },
+    {
+        "uuid": "4356ffa5-c84e-4b29-8d14-f28113e2187c",
+        "name": "Libyan Arab Jamahiriya",
+        "span": {
+            "begin": "1969-01-01T00:00:00Z",
+            "end": "2011-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q6452956"
     },
     {
         "uuid": "afdd968c-1901-4e59-86d0-80bbc23a341d",
@@ -7852,26 +7692,6 @@
         "uuid": "b686ac0f-22ae-417f-8b55-9a71185b3ed6",
         "name": "Lithuanian Soviet Socialist Republic",
         "url": "https://www.wikidata.org/wiki/Q80211"
-    },
-    {
-        "uuid": "de510ff2-ee23-4868-a1d8-fe079ca143c3",
-        "name": "Lithuanian–Belorussian Soviet Socialist Republic",
-        "three_letter_iso_code": "BYS",
-        "two_letter_iso_code": "BY",
-        "numeric_iso_code": "112",
-        "span": {
-            "begin": "1919-01-01T00:00:00Z",
-            "end": "1919-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q76236"
-    },
-    {
-        "uuid": "1f411118-2483-427a-b42a-e239f36f3433",
-        "name": "Lithuania",
-        "three_letter_iso_code": "LTU",
-        "two_letter_iso_code": "LT",
-        "numeric_iso_code": "440",
-        "url": "https://www.wikidata.org/wiki/Q37"
     },
     {
         "uuid": "53f80239-0a9f-413e-a423-6e9ffdf526c2",
@@ -8099,13 +7919,52 @@
         "url": "https://www.wikidata.org/wiki/Q976099"
     },
     {
-        "uuid": "4cc07745-9693-4ceb-9d8a-e80d2474a80c",
-        "name": "Malayan Union",
+        "uuid": "bb65efb2-671d-4519-9205-9eda49f8fb67",
+        "name": "Mali Empire",
         "span": {
-            "begin": "1946-01-01T00:00:00Z",
-            "end": "1948-01-01T00:00:00Z"
+            "begin": "1230-01-01T00:00:00Z",
+            "end": "1545-01-01T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q976099"
+        "url": "https://www.wikidata.org/wiki/Q184536"
+    },
+    {
+        "uuid": "7e10ed9e-a6d4-43a9-b965-2a454508bfe0",
+        "name": "Mali Federation",
+        "span": {
+            "begin": "1959-01-01T00:00:00Z",
+            "end": "1960-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q216632"
+    },
+    {
+        "uuid": "8ead2595-3bdd-41e0-a61e-86d495b8a008",
+        "name": "Monaco",
+        "three_letter_iso_code": "MCO",
+        "two_letter_iso_code": "MC",
+        "numeric_iso_code": "492",
+        "span": {
+            "begin": "1297-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q235"
+    },
+    {
+        "uuid": "c7fd044c-c60b-444a-8e60-53cc30a42081",
+        "name": "Moldova",
+        "three_letter_iso_code": "MDA",
+        "two_letter_iso_code": "MD",
+        "numeric_iso_code": "498",
+        "span": {
+            "begin": "1991-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q217"
+    },
+    {
+        "uuid": "ee49a746-7eb6-40fa-a919-7c17cb684df8",
+        "name": "Marshall Islands",
+        "three_letter_iso_code": "MHL",
+        "two_letter_iso_code": "MH",
+        "numeric_iso_code": "584",
+        "url": "https://www.wikidata.org/wiki/Q709"
     },
     {
         "uuid": "233f680e-7dbc-40cf-9923-3207bad96d33",
@@ -8114,6 +7973,27 @@
         "two_letter_iso_code": "ML",
         "numeric_iso_code": "466",
         "url": "https://www.wikidata.org/wiki/Q912"
+    },
+    {
+        "uuid": "1eb5279f-e5a1-4593-8300-f0109e5a681e",
+        "name": "Malla",
+        "url": "https://www.wikidata.org/wiki/Q1376303"
+    },
+    {
+        "uuid": "fecef13f-c7ec-421c-aa44-2284d8522cd9",
+        "name": "Mongolia",
+        "three_letter_iso_code": "MNG",
+        "two_letter_iso_code": "MN",
+        "numeric_iso_code": "496",
+        "url": "https://www.wikidata.org/wiki/Q711"
+    },
+    {
+        "uuid": "22ab1ebc-c86f-4c3b-b7d4-0046c973984e",
+        "name": "Mauritania",
+        "three_letter_iso_code": "MRT",
+        "two_letter_iso_code": "MR",
+        "numeric_iso_code": "478",
+        "url": "https://www.wikidata.org/wiki/Q1025"
     },
     {
         "uuid": "1f5798ad-42f9-4cc7-bbaf-a67db87c31f8",
@@ -8138,37 +8018,6 @@
         "two_letter_iso_code": "MW",
         "numeric_iso_code": "454",
         "url": "https://www.wikidata.org/wiki/Q1020"
-    },
-    {
-        "uuid": "b0e9ec0a-0f32-40d1-9114-dfc871b32b41",
-        "name": "Malaysia",
-        "three_letter_iso_code": "MYS",
-        "two_letter_iso_code": "MY",
-        "numeric_iso_code": "458",
-        "url": "https://www.wikidata.org/wiki/Q833"
-    },
-    {
-        "uuid": "bb65efb2-671d-4519-9205-9eda49f8fb67",
-        "name": "Mali Empire",
-        "span": {
-            "begin": "1230-01-01T00:00:00Z",
-            "end": "1545-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q184536"
-    },
-    {
-        "uuid": "7e10ed9e-a6d4-43a9-b965-2a454508bfe0",
-        "name": "Mali Federation",
-        "span": {
-            "begin": "1959-01-01T00:00:00Z",
-            "end": "1960-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q216632"
-    },
-    {
-        "uuid": "1eb5279f-e5a1-4593-8300-f0109e5a681e",
-        "name": "Malla",
-        "url": "https://www.wikidata.org/wiki/Q1376303"
     },
     {
         "uuid": "1a06873f-2209-4126-96c7-4ea5b7db1f39",
@@ -8291,6 +8140,14 @@
         "url": "https://www.wikidata.org/wiki/Q309272"
     },
     {
+        "uuid": "bbb0d632-9f64-42db-a899-0ef4d04e24e7",
+        "name": "Mauritius",
+        "three_letter_iso_code": "MUS",
+        "two_letter_iso_code": "MU",
+        "numeric_iso_code": "480",
+        "url": "https://www.wikidata.org/wiki/Q1027"
+    },
+    {
         "uuid": "52ac384e-bcb0-4425-ad74-37f62673be53",
         "name": "Maya civilization",
         "url": "https://www.wikidata.org/wiki/Q28567"
@@ -8341,6 +8198,25 @@
         "uuid": "0d037032-0621-480e-8dca-49c2372fd9da",
         "name": "Mewar",
         "url": "https://www.wikidata.org/wiki/Q1518229"
+    },
+    {
+        "uuid": "a47ee3da-ac36-4279-9634-7b2631572b73",
+        "name": "Mexico",
+        "three_letter_iso_code": "MEX",
+        "two_letter_iso_code": "MX",
+        "numeric_iso_code": "484",
+        "span": {
+            "begin": "1813-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q96"
+    },
+    {
+        "uuid": "b0e9ec0a-0f32-40d1-9114-dfc871b32b41",
+        "name": "Malaysia",
+        "three_letter_iso_code": "MYS",
+        "two_letter_iso_code": "MY",
+        "numeric_iso_code": "458",
+        "url": "https://www.wikidata.org/wiki/Q833"
     },
     {
         "uuid": "d6ad2629-4e60-4ae9-a943-c261f44cfff4",
@@ -8411,28 +8287,6 @@
         "url": "https://www.wikidata.org/wiki/Q964024"
     },
     {
-        "uuid": "8ead2595-3bdd-41e0-a61e-86d495b8a008",
-        "name": "Monaco",
-        "three_letter_iso_code": "MCO",
-        "two_letter_iso_code": "MC",
-        "numeric_iso_code": "492",
-        "span": {
-            "begin": "1297-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q235"
-    },
-    {
-        "uuid": "c7fd044c-c60b-444a-8e60-53cc30a42081",
-        "name": "Moldova",
-        "three_letter_iso_code": "MDA",
-        "two_letter_iso_code": "MD",
-        "numeric_iso_code": "498",
-        "span": {
-            "begin": "1991-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q217"
-    },
-    {
         "uuid": "ab418605-ee00-431f-b550-cfd472137d62",
         "name": "Monarchies of Malaysia",
         "url": "https://www.wikidata.org/wiki/Q2658454"
@@ -8456,15 +8310,6 @@
         "url": "https://www.wikidata.org/wiki/Q212056"
     },
     {
-        "uuid": "26e2f431-8ef9-4c62-b902-d71628cb1ab6",
-        "name": "Mongolian People's Republic",
-        "span": {
-            "begin": "1924-11-26T00:00:00Z",
-            "end": "1992-02-12T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q212056"
-    },
-    {
         "uuid": "1313a336-21e8-415f-9ff4-48082b6461a7",
         "name": "Mon kingdoms",
         "url": "https://www.wikidata.org/wiki/Q3446298"
@@ -8473,14 +8318,6 @@
         "uuid": "403c2732-d491-40ec-89d5-fc7105e326f2",
         "name": "Mon State",
         "url": "https://www.wikidata.org/wiki/Q818742"
-    },
-    {
-        "uuid": "3f94102a-32d4-4192-95f7-e857f5feadec",
-        "name": "Morocco",
-        "three_letter_iso_code": "MAR",
-        "two_letter_iso_code": "MA",
-        "numeric_iso_code": "504",
-        "url": "https://www.wikidata.org/wiki/Q1028"
     },
     {
         "uuid": "7179e6e6-6e2d-45a8-bcee-3cf9954f11b7",
@@ -8492,49 +8329,6 @@
             "begin": "2006-00-00T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q236"
-    },
-    {
-        "uuid": "ee49a746-7eb6-40fa-a919-7c17cb684df8",
-        "name": "Marshall Islands",
-        "three_letter_iso_code": "MHL",
-        "two_letter_iso_code": "MH",
-        "numeric_iso_code": "584",
-        "url": "https://www.wikidata.org/wiki/Q709"
-    },
-    {
-        "uuid": "fecef13f-c7ec-421c-aa44-2284d8522cd9",
-        "name": "Mongolia",
-        "three_letter_iso_code": "MNG",
-        "two_letter_iso_code": "MN",
-        "numeric_iso_code": "496",
-        "url": "https://www.wikidata.org/wiki/Q711"
-    },
-    {
-        "uuid": "22ab1ebc-c86f-4c3b-b7d4-0046c973984e",
-        "name": "Mauritania",
-        "three_letter_iso_code": "MRT",
-        "two_letter_iso_code": "MR",
-        "numeric_iso_code": "478",
-        "url": "https://www.wikidata.org/wiki/Q1025"
-    },
-    {
-        "uuid": "bbb0d632-9f64-42db-a899-0ef4d04e24e7",
-        "name": "Mauritius",
-        "three_letter_iso_code": "MUS",
-        "two_letter_iso_code": "MU",
-        "numeric_iso_code": "480",
-        "url": "https://www.wikidata.org/wiki/Q1027"
-    },
-    {
-        "uuid": "a47ee3da-ac36-4279-9634-7b2631572b73",
-        "name": "Mexico",
-        "three_letter_iso_code": "MEX",
-        "two_letter_iso_code": "MX",
-        "numeric_iso_code": "484",
-        "span": {
-            "begin": "1813-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q96"
     },
     {
         "uuid": "362ba263-364d-4528-888d-4e4c1f876b83",
@@ -8567,6 +8361,14 @@
         "url": "https://www.wikidata.org/wiki/Q1948254"
     },
     {
+        "uuid": "3f94102a-32d4-4192-95f7-e857f5feadec",
+        "name": "Morocco",
+        "three_letter_iso_code": "MAR",
+        "two_letter_iso_code": "MA",
+        "numeric_iso_code": "504",
+        "url": "https://www.wikidata.org/wiki/Q1028"
+    },
+    {
         "uuid": "1b01a7e9-cba6-4888-944e-7d6459102ec1",
         "name": "Morvi State",
         "url": "https://www.wikidata.org/wiki/Q922317"
@@ -8587,6 +8389,14 @@
             "end": "1920-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1639475"
+    },
+    {
+        "uuid": "91d5abce-5bbb-4300-9ccc-36c8ba1b8497",
+        "name": "Myanmar",
+        "three_letter_iso_code": "MMR",
+        "two_letter_iso_code": "MM",
+        "numeric_iso_code": "104",
+        "url": "https://www.wikidata.org/wiki/Q836"
     },
     {
         "uuid": "bd0551cf-8d23-4d7a-ad1a-2c0cbc11c2c9",
@@ -8673,14 +8483,6 @@
             "end": "1393-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q877670"
-    },
-    {
-        "uuid": "91d5abce-5bbb-4300-9ccc-36c8ba1b8497",
-        "name": "Myanmar",
-        "three_letter_iso_code": "MMR",
-        "two_letter_iso_code": "MM",
-        "numeric_iso_code": "104",
-        "url": "https://www.wikidata.org/wiki/Q836"
     },
     {
         "uuid": "ff3abfd6-fee6-4429-a34c-76a8a5574c93",
@@ -8836,33 +8638,6 @@
         "url": "https://www.wikidata.org/wiki/Q624887"
     },
     {
-        "uuid": "9b6aa070-45cd-49d8-bc63-dfd7c0384594",
-        "name": "Niger",
-        "three_letter_iso_code": "NER",
-        "two_letter_iso_code": "NE",
-        "numeric_iso_code": "562",
-        "url": "https://www.wikidata.org/wiki/Q1032"
-    },
-    {
-        "uuid": "7932550d-0063-4da6-9a80-e5fefef4c320",
-        "name": "Nigeria",
-        "three_letter_iso_code": "NGA",
-        "two_letter_iso_code": "NG",
-        "numeric_iso_code": "566",
-        "url": "https://www.wikidata.org/wiki/Q1033"
-    },
-    {
-        "uuid": "4f5c6553-fa81-4229-a753-935d1d604d2d",
-        "name": "Nicaragua",
-        "three_letter_iso_code": "NIC",
-        "two_letter_iso_code": "NI",
-        "numeric_iso_code": "558",
-        "span": {
-            "begin": "1821-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q811"
-    },
-    {
         "uuid": "a854bbdb-2cfe-44f9-984b-c8e623edd7f9",
         "name": "Nepal",
         "three_letter_iso_code": "NPL",
@@ -8900,6 +8675,17 @@
         "url": "https://www.wikidata.org/wiki/Q106577"
     },
     {
+        "uuid": "4f5c6553-fa81-4229-a753-935d1d604d2d",
+        "name": "Nicaragua",
+        "three_letter_iso_code": "NIC",
+        "two_letter_iso_code": "NI",
+        "numeric_iso_code": "558",
+        "span": {
+            "begin": "1821-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q811"
+    },
+    {
         "uuid": "d0fc14c7-ebd3-4603-8c37-cc08369932df",
         "name": "New Zealand",
         "three_letter_iso_code": "NZL",
@@ -8909,6 +8695,18 @@
             "begin": "1907-09-26T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q664"
+    },
+    {
+        "uuid": "fdada9c6-2f49-4381-955d-a76c68893518",
+        "name": "New Hebrides",
+        "three_letter_iso_code": "VUT",
+        "two_letter_iso_code": "VU",
+        "numeric_iso_code": "548",
+        "span": {
+            "begin": "1906-01-01T00:00:00Z",
+            "end": "1980-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q752431"
     },
     {
         "uuid": "205fe46d-e57c-4a6f-981e-efebcb06b9b5",
@@ -8923,6 +8721,22 @@
             "end": "1888-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q552157"
+    },
+    {
+        "uuid": "9b6aa070-45cd-49d8-bc63-dfd7c0384594",
+        "name": "Niger",
+        "three_letter_iso_code": "NER",
+        "two_letter_iso_code": "NE",
+        "numeric_iso_code": "562",
+        "url": "https://www.wikidata.org/wiki/Q1032"
+    },
+    {
+        "uuid": "7932550d-0063-4da6-9a80-e5fefef4c320",
+        "name": "Nigeria",
+        "three_letter_iso_code": "NGA",
+        "two_letter_iso_code": "NG",
+        "numeric_iso_code": "566",
+        "url": "https://www.wikidata.org/wiki/Q1033"
     },
     {
         "uuid": "e91b015d-f252-4e8d-8c7e-3895866a457c",
@@ -9191,15 +9005,6 @@
         "url": "https://www.wikidata.org/wiki/Q218023"
     },
     {
-        "uuid": "5853985a-ffa4-4abc-90c7-c16247305122",
-        "name": "Orange Free State",
-        "span": {
-            "begin": "1854-01-01T00:00:00Z",
-            "end": "1902-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q218023"
-    },
-    {
         "uuid": "d986723d-bbf9-4683-94bd-e23e96c49f64",
         "name": "Orange River Colony",
         "span": {
@@ -9281,6 +9086,19 @@
         "url": "https://www.wikidata.org/wiki/Q3177715"
     },
     {
+        "uuid": "00bba05f-c65b-4317-9aac-522d0645697f",
+        "name": "Palanpur Agency",
+        "url": "https://www.wikidata.org/wiki/Q1237976"
+    },
+    {
+        "uuid": "f1431915-9669-4014-acc6-d0827900dfcf",
+        "name": "Panama",
+        "three_letter_iso_code": "PAN",
+        "two_letter_iso_code": "PA",
+        "numeric_iso_code": "591",
+        "url": "https://www.wikidata.org/wiki/Q804"
+    },
+    {
         "uuid": "d3563872-a1c7-4184-9383-5a7ee440c774",
         "name": "Pakistan",
         "three_letter_iso_code": "PAK",
@@ -9289,14 +9107,20 @@
         "url": "https://www.wikidata.org/wiki/Q843"
     },
     {
-        "uuid": "00bba05f-c65b-4317-9aac-522d0645697f",
-        "name": "Palanpur Agency",
-        "url": "https://www.wikidata.org/wiki/Q1237976"
-    },
-    {
         "uuid": "a28f62be-2715-4379-ae31-01a011943865",
         "name": "Palanpur State",
         "url": "https://www.wikidata.org/wiki/Q7126720"
+    },
+    {
+        "uuid": "c93a9ea8-0110-4734-bd5e-d1ce097f2838",
+        "name": "Palau",
+        "three_letter_iso_code": "PLW",
+        "two_letter_iso_code": "PW",
+        "numeric_iso_code": "585",
+        "span": {
+            "begin": "1994-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q695"
     },
     {
         "uuid": "83c2f1ae-5ad8-49ee-a384-d09e99095397",
@@ -9314,14 +9138,6 @@
             "end": "0273-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q877875"
-    },
-    {
-        "uuid": "f1431915-9669-4014-acc6-d0827900dfcf",
-        "name": "Panama",
-        "three_letter_iso_code": "PAN",
-        "two_letter_iso_code": "PA",
-        "numeric_iso_code": "591",
-        "url": "https://www.wikidata.org/wiki/Q804"
     },
     {
         "uuid": "b33aed2d-6ccf-4da1-b420-05886ac52d88",
@@ -9591,43 +9407,12 @@
         "url": "https://www.wikidata.org/wiki/Q129569"
     },
     {
-        "uuid": "8b86b909-52aa-4a6f-a01d-76377ed4c775",
-        "name": "Republic of the Congo",
-        "three_letter_iso_code": "COG",
-        "two_letter_iso_code": "CG",
-        "numeric_iso_code": "178",
-        "url": "https://www.wikidata.org/wiki/Q971"
-    },
-    {
-        "uuid": "bbd3e31e-3355-4543-b2a5-0a6b42864690",
-        "name": "Protectorate of Peru",
-        "three_letter_iso_code": "PER",
-        "two_letter_iso_code": "PE",
-        "numeric_iso_code": "604",
-        "span": {
-            "begin": "1821-00-00T00:00:00Z",
-            "end": "1822-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q7251405"
-    },
-    {
         "uuid": "035e4a3f-ec1f-4333-bd54-b3903907da9f",
         "name": "Poland",
         "three_letter_iso_code": "POL",
         "two_letter_iso_code": "PL",
         "numeric_iso_code": "616",
         "url": "https://www.wikidata.org/wiki/Q36"
-    },
-    {
-        "uuid": "c93a9ea8-0110-4734-bd5e-d1ce097f2838",
-        "name": "Palau",
-        "three_letter_iso_code": "PLW",
-        "two_letter_iso_code": "PW",
-        "numeric_iso_code": "585",
-        "span": {
-            "begin": "1994-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q695"
     },
     {
         "uuid": "a6d89178-680d-4de9-9482-40d1247aa298",
@@ -9639,15 +9424,6 @@
             "begin": "1811-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q733"
-    },
-    {
-        "uuid": "f236753e-dcb5-43a2-be0d-94e619c2fd5e",
-        "name": "Polish–Lithuanian Commonwealth",
-        "span": {
-            "begin": "1569-06-21T00:00:00Z",
-            "end": "1795-10-24T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q172107"
     },
     {
         "uuid": "f236753e-dcb5-43a2-be0d-94e619c2fd5e",
@@ -10107,6 +9883,18 @@
         "url": "https://www.wikidata.org/wiki/Q152750"
     },
     {
+        "uuid": "bbd3e31e-3355-4543-b2a5-0a6b42864690",
+        "name": "Protectorate of Peru",
+        "three_letter_iso_code": "PER",
+        "two_letter_iso_code": "PE",
+        "numeric_iso_code": "604",
+        "span": {
+            "begin": "1821-00-00T00:00:00Z",
+            "end": "1822-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q7251405"
+    },
+    {
         "uuid": "ba876dee-e969-4e8c-8c6b-bbfcab1f6009",
         "name": "Protectorate of South Arabia",
         "span": {
@@ -10256,18 +10044,6 @@
         "url": "https://www.wikidata.org/wiki/Q846"
     },
     {
-        "uuid": "fdada9c6-2f49-4381-955d-a76c68893518",
-        "name": "New Hebrides",
-        "three_letter_iso_code": "VUT",
-        "two_letter_iso_code": "VU",
-        "numeric_iso_code": "548",
-        "span": {
-            "begin": "1906-01-01T00:00:00Z",
-            "end": "1980-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q752431"
-    },
-    {
         "uuid": "0d343b5c-e891-4313-b740-b528adc20cc1",
         "name": "Qi",
         "span": {
@@ -10277,11 +10053,6 @@
         "url": "https://www.wikidata.org/wiki/Q1319681"
     },
     {
-        "uuid": "8a939080-2625-48c4-927a-bd48e68eba9a",
-        "name": "Qi",
-        "url": "https://www.wikidata.org/wiki/Q1207032"
-    },
-    {
         "uuid": "33211ca5-f13c-4db9-b3be-152280a9f210",
         "name": "Qi",
         "span": {
@@ -10289,6 +10060,11 @@
             "end": "-0220-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q837855"
+    },
+    {
+        "uuid": "8a939080-2625-48c4-927a-bd48e68eba9a",
+        "name": "Qi",
+        "url": "https://www.wikidata.org/wiki/Q1207032"
     },
     {
         "uuid": "1206a714-a3ed-411b-9ecf-49fd73810f6c",
@@ -10384,14 +10160,6 @@
         "uuid": "a5af8d62-9211-44d6-8311-cc2d152e4037",
         "name": "Rascia",
         "url": "https://www.wikidata.org/wiki/Q947616"
-    },
-    {
-        "uuid": "87c3f574-d512-4ccc-881f-eb4392f71097",
-        "name": "Rashidun Caliphate",
-        "span": {
-            "end": "0661-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q12490507"
     },
     {
         "uuid": "87c3f574-d512-4ccc-881f-eb4392f71097",
@@ -10533,15 +10301,6 @@
         "url": "https://www.wikidata.org/wiki/Q13426199"
     },
     {
-        "uuid": "b9d34024-d45b-49f6-abff-69578f0b5334",
-        "name": "Republic of China",
-        "span": {
-            "begin": "1912-00-00T00:00:00Z",
-            "end": "1949-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q13426199"
-    },
-    {
         "uuid": "080ffa33-8863-48e7-9aca-d2b2589f72ad",
         "name": "Republic of Connaught",
         "span": {
@@ -10559,15 +10318,6 @@
         "uuid": "1bd8d482-f556-495b-8cf4-631558dc4d6f",
         "name": "Republic of Egypt",
         "url": "https://www.wikidata.org/wiki/Q3087763"
-    },
-    {
-        "uuid": "441ea306-7ef5-4dfe-91ca-079f6e71edde",
-        "name": "Republic of Entre Ríos",
-        "span": {
-            "begin": "1820-01-01T00:00:00Z",
-            "end": "1821-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q3267672"
     },
     {
         "uuid": "441ea306-7ef5-4dfe-91ca-079f6e71edde",
@@ -10841,6 +10591,14 @@
         "url": "https://www.wikidata.org/wiki/Q618399"
     },
     {
+        "uuid": "8b86b909-52aa-4a6f-a01d-76377ed4c775",
+        "name": "Republic of the Congo",
+        "three_letter_iso_code": "COG",
+        "two_letter_iso_code": "CG",
+        "numeric_iso_code": "178",
+        "url": "https://www.wikidata.org/wiki/Q971"
+    },
+    {
         "uuid": "e67b54fa-74c8-49ee-8ba0-f93e1c532516",
         "name": "Republic of the North Solomons",
         "span": {
@@ -10950,15 +10708,6 @@
         "url": "https://www.wikidata.org/wiki/Q162192"
     },
     {
-        "uuid": "1ff79794-6899-4c1c-ab4c-b0fa0cfd8af8",
-        "name": "Riograndense Republic",
-        "span": {
-            "begin": "1836-01-01T00:00:00Z",
-            "end": "1845-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q162192"
-    },
-    {
         "uuid": "c81c188d-d831-49ae-a889-47140d794224",
         "name": "Roman Empire",
         "span": {
@@ -10984,6 +10733,15 @@
         "url": "https://www.wikidata.org/wiki/Q444912"
     },
     {
+        "uuid": "7900d53f-675b-49ba-958c-e962297af898",
+        "name": "Roman Republic",
+        "span": {
+            "begin": "-0509-01-01T00:00:00Z",
+            "end": "-0027-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q17167"
+    },
+    {
         "uuid": "29033684-2636-48f7-b0f4-09f77418f542",
         "name": "Roman Republic",
         "span": {
@@ -10993,15 +10751,6 @@
         "url": "https://www.wikidata.org/wiki/Q175881"
     },
     {
-        "uuid": "7900d53f-675b-49ba-958c-e962297af898",
-        "name": "Roman Republic",
-        "span": {
-            "begin": "-0509-01-01T00:00:00Z",
-            "end": "-0027-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q17167"
-    },
-    {
         "uuid": "86922009-df6a-48d7-b258-0174c4092589",
         "name": "Roman Republic",
         "span": {
@@ -11009,15 +10758,6 @@
             "end": "1849-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1072140"
-    },
-    {
-        "uuid": "7900d53f-675b-49ba-958c-e962297af898",
-        "name": "Roman Republic",
-        "span": {
-            "begin": "-0509-01-01T00:00:00Z",
-            "end": "-0027-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q17167"
     },
     {
         "uuid": "06778bdb-b4c5-42d9-b2d9-3318dee529f9",
@@ -11096,29 +10836,11 @@
         "url": "https://www.wikidata.org/wiki/Q139319"
     },
     {
-        "uuid": "7a3de60a-9e9f-4b1d-b2c3-bd4d12226a00",
-        "name": "Russian Republic",
-        "span": {
-            "begin": "1917-09-14T00:00:00Z",
-            "end": "1917-11-07T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q139319"
-    },
-    {
         "uuid": "770e7fe0-6cd3-403e-b470-aef44634dc2a",
         "name": "Russian Soviet Federative Socialist Republic",
         "three_letter_iso_code": "RUS",
         "two_letter_iso_code": "RU",
         "numeric_iso_code": "643",
-        "span": {
-            "begin": "1917-11-07T00:00:00Z",
-            "end": "1991-12-25T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q2184"
-    },
-    {
-        "uuid": "770e7fe0-6cd3-403e-b470-aef44634dc2a",
-        "name": "Russian Soviet Federative Socialist Republic",
         "span": {
             "begin": "1917-11-07T00:00:00Z",
             "end": "1991-12-25T00:00:00Z"
@@ -11455,6 +11177,25 @@
         "url": "https://www.wikidata.org/wiki/Q2428714"
     },
     {
+        "uuid": "78043897-7108-4bb4-a8a3-7f83dabd690a",
+        "name": "Serbia",
+        "three_letter_iso_code": "SRB",
+        "two_letter_iso_code": "RS",
+        "numeric_iso_code": "688",
+        "span": {
+            "begin": "2006-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q403"
+    },
+    {
+        "uuid": "cb8ef808-2e1c-419e-aa26-5f8eefa2336c",
+        "name": "Senegal",
+        "three_letter_iso_code": "SEN",
+        "two_letter_iso_code": "SN",
+        "numeric_iso_code": "686",
+        "url": "https://www.wikidata.org/wiki/Q1041"
+    },
+    {
         "uuid": "0d68d7e7-a0a3-483b-b0dd-044523449030",
         "name": "Senegambia and Niger",
         "span": {
@@ -11480,17 +11221,6 @@
             "end": "1815-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1077630"
-    },
-    {
-        "uuid": "78043897-7108-4bb4-a8a3-7f83dabd690a",
-        "name": "Serbia",
-        "three_letter_iso_code": "SRB",
-        "two_letter_iso_code": "RS",
-        "numeric_iso_code": "688",
-        "span": {
-            "begin": "2006-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q403"
     },
     {
         "uuid": "d8370c5a-30fe-4a8b-8f81-dd93be91c56d",
@@ -11548,6 +11278,17 @@
         "uuid": "dda92959-ec5d-4a51-8f86-7049037b4af7",
         "name": "Seven Warring States",
         "url": "https://www.wikidata.org/wiki/Q1276649"
+    },
+    {
+        "uuid": "31c650be-254c-4b66-9efa-b8bb763205e1",
+        "name": "Seychelles",
+        "three_letter_iso_code": "SYC",
+        "two_letter_iso_code": "SC",
+        "numeric_iso_code": "690",
+        "span": {
+            "begin": "1976-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q1042"
     },
     {
         "uuid": "f1182118-2a66-4ee3-b26a-8ea4901f984b",
@@ -11670,6 +11411,45 @@
         "url": "https://www.wikidata.org/wiki/Q28456"
     },
     {
+        "uuid": "e682d61f-20ed-4080-a82f-7ff211ac3161",
+        "name": "Singapore",
+        "three_letter_iso_code": "SGP",
+        "two_letter_iso_code": "SG",
+        "numeric_iso_code": "702",
+        "url": "https://www.wikidata.org/wiki/Q334"
+    },
+    {
+        "uuid": "0afe88f6-e33e-446c-8321-44c277c6dd71",
+        "name": "Slovakia",
+        "three_letter_iso_code": "SVK",
+        "two_letter_iso_code": "SK",
+        "numeric_iso_code": "703",
+        "span": {
+            "begin": "1993-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q214"
+    },
+    {
+        "uuid": "5d947cca-5084-4ebc-b12a-29dd1e2b2b41",
+        "name": "Sierra Leone",
+        "three_letter_iso_code": "SLE",
+        "two_letter_iso_code": "SL",
+        "numeric_iso_code": "694",
+        "url": "https://www.wikidata.org/wiki/Q1044"
+    },
+    {
+        "uuid": "75dc4211-6adb-402b-86b8-5fe703642c64",
+        "name": "Siam",
+        "three_letter_iso_code": "THA",
+        "two_letter_iso_code": "TH",
+        "numeric_iso_code": "764",
+        "span": {
+            "begin": "1350-01-01T00:00:00Z",
+            "end": "1939-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q1081620"
+    },
+    {
         "uuid": "2ee8ec47-5fc0-47fb-a323-d71436e0a544",
         "name": "Sirmoor State",
         "span": {
@@ -11712,6 +11492,17 @@
             "end": "1919-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q200896"
+    },
+    {
+        "uuid": "7a27bd47-a014-4f01-b46d-11a5cf990960",
+        "name": "Slovenia",
+        "three_letter_iso_code": "SVN",
+        "two_letter_iso_code": "SI",
+        "numeric_iso_code": "705",
+        "span": {
+            "begin": "1991-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q215"
     },
     {
         "uuid": "ac99a6a8-abf7-496c-8483-c015aebd4253",
@@ -11790,102 +11581,12 @@
         "url": "https://www.wikidata.org/wiki/Q1757296"
     },
     {
-        "uuid": "524d06d1-a9f4-4121-98c4-a91a93350920",
-        "name": "Spain",
-        "three_letter_iso_code": "ESP",
-        "two_letter_iso_code": "ES",
-        "numeric_iso_code": "724",
-        "span": {
-            "begin": "1468-12-09T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q29"
-    },
-    {
-        "uuid": "c3d9b694-7957-45ae-9a16-0e036df45581",
-        "name": "South Korea",
-        "three_letter_iso_code": "KOR",
-        "two_letter_iso_code": "KR",
-        "numeric_iso_code": "410",
-        "span": {
-            "begin": "1948-08-15T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q884"
-    },
-    {
-        "uuid": "f62ca77d-567c-49e1-a97b-4623e1d53a38",
-        "name": "Sri Lanka",
-        "three_letter_iso_code": "LKA",
-        "two_letter_iso_code": "LK",
-        "numeric_iso_code": "144",
-        "span": {
-            "begin": "1971-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q854"
-    },
-    {
         "uuid": "0d5da36f-4254-429f-9b88-beae06783f5d",
         "name": "Solomon Islands",
         "three_letter_iso_code": "SLB",
         "two_letter_iso_code": "SB",
         "numeric_iso_code": "090",
         "url": "https://www.wikidata.org/wiki/Q685"
-    },
-    {
-        "uuid": "31c650be-254c-4b66-9efa-b8bb763205e1",
-        "name": "Seychelles",
-        "three_letter_iso_code": "SYC",
-        "two_letter_iso_code": "SC",
-        "numeric_iso_code": "690",
-        "span": {
-            "begin": "1976-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1042"
-    },
-    {
-        "uuid": "e682d61f-20ed-4080-a82f-7ff211ac3161",
-        "name": "Singapore",
-        "three_letter_iso_code": "SGP",
-        "two_letter_iso_code": "SG",
-        "numeric_iso_code": "702",
-        "url": "https://www.wikidata.org/wiki/Q334"
-    },
-    {
-        "uuid": "7a27bd47-a014-4f01-b46d-11a5cf990960",
-        "name": "Slovenia",
-        "three_letter_iso_code": "SVN",
-        "two_letter_iso_code": "SI",
-        "numeric_iso_code": "705",
-        "span": {
-            "begin": "1991-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q215"
-    },
-    {
-        "uuid": "0afe88f6-e33e-446c-8321-44c277c6dd71",
-        "name": "Slovakia",
-        "three_letter_iso_code": "SVK",
-        "two_letter_iso_code": "SK",
-        "numeric_iso_code": "703",
-        "span": {
-            "begin": "1993-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q214"
-    },
-    {
-        "uuid": "5d947cca-5084-4ebc-b12a-29dd1e2b2b41",
-        "name": "Sierra Leone",
-        "three_letter_iso_code": "SLE",
-        "two_letter_iso_code": "SL",
-        "numeric_iso_code": "694",
-        "url": "https://www.wikidata.org/wiki/Q1044"
-    },
-    {
-        "uuid": "cb8ef808-2e1c-419e-aa26-5f8eefa2336c",
-        "name": "Senegal",
-        "three_letter_iso_code": "SEN",
-        "two_letter_iso_code": "SN",
-        "numeric_iso_code": "686",
-        "url": "https://www.wikidata.org/wiki/Q1041"
     },
     {
         "uuid": "159c5cf2-5b98-4390-897a-a298a8f5d43d",
@@ -11896,29 +11597,12 @@
         "url": "https://www.wikidata.org/wiki/Q1045"
     },
     {
-        "uuid": "75dc4211-6adb-402b-86b8-5fe703642c64",
-        "name": "Siam",
-        "three_letter_iso_code": "THA",
-        "two_letter_iso_code": "TH",
-        "numeric_iso_code": "764",
-        "span": {
-            "begin": "1350-01-01T00:00:00Z",
-            "end": "1939-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1081620"
-    },
-    {
         "uuid": "0c17f39c-f77d-44d7-9ea2-60f10ecb0ef5",
         "name": "Somali Democratic Republic",
         "span": {
             "begin": "1969-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1477220"
-    },
-    {
-        "uuid": "adf9d0d8-9d98-49a1-8641-ceb2928c813e",
-        "name": "Somali Republic",
-        "url": "https://www.wikidata.org/wiki/Q7559152"
     },
     {
         "uuid": "adf9d0d8-9d98-49a1-8641-ceb2928c813e",
@@ -11967,23 +11651,6 @@
         "url": "https://www.wikidata.org/wiki/Q953068"
     },
     {
-        "uuid": "518da616-64c4-4338-a779-6c07d8f34891",
-        "name": "South Africa",
-        "three_letter_iso_code": "ZAF",
-        "two_letter_iso_code": "ZA",
-        "numeric_iso_code": "710",
-        "url": "https://www.wikidata.org/wiki/Q258"
-    },
-    {
-        "uuid": "5f067512-bfad-45d3-acc3-8688124c227d",
-        "name": "South African Republic",
-        "span": {
-            "begin": "1856-01-01T00:00:00Z",
-            "end": "1902-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q550374"
-    },
-    {
         "uuid": "5f067512-bfad-45d3-acc3-8688124c227d",
         "name": "South African Republic",
         "span": {
@@ -12027,6 +11694,17 @@
             "end": "1961-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q639073"
+    },
+    {
+        "uuid": "c3d9b694-7957-45ae-9a16-0e036df45581",
+        "name": "South Korea",
+        "three_letter_iso_code": "KOR",
+        "two_letter_iso_code": "KR",
+        "numeric_iso_code": "410",
+        "span": {
+            "begin": "1948-08-15T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q884"
     },
     {
         "uuid": "bde5bcb1-d70e-46e5-8422-b2821a61021a",
@@ -12086,24 +11764,6 @@
         "url": "https://www.wikidata.org/wiki/Q3324546"
     },
     {
-        "uuid": "ea58b3ab-cc93-4aa5-b499-d3994f5ba773",
-        "name": "Sovereign Council of Asturias and León",
-        "span": {
-            "begin": "1937-08-24T00:00:00Z",
-            "end": "1937-10-21T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q3324546"
-    },
-    {
-        "uuid": "c8bc09be-7f4b-491f-82fd-0cddd692cc84",
-        "name": "Sovereign Principality of the United Netherlands",
-        "span": {
-            "begin": "1813-11-21T00:00:00Z",
-            "end": "1815-03-16T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q774783"
-    },
-    {
         "uuid": "c8bc09be-7f4b-491f-82fd-0cddd692cc84",
         "name": "Sovereign Principality of the United Netherlands",
         "span": {
@@ -12136,6 +11796,17 @@
         "url": "https://www.wikidata.org/wiki/Q15180"
     },
     {
+        "uuid": "524d06d1-a9f4-4121-98c4-a91a93350920",
+        "name": "Spain",
+        "three_letter_iso_code": "ESP",
+        "two_letter_iso_code": "ES",
+        "numeric_iso_code": "724",
+        "span": {
+            "begin": "1468-12-09T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q29"
+    },
+    {
         "uuid": "5ed4d527-52d8-49ed-893b-02c4447f6c5b",
         "name": "Spanish Empire",
         "url": "https://www.wikidata.org/wiki/Q80702"
@@ -12152,6 +11823,17 @@
         "uuid": "6949d8ff-9af4-4514-b64a-e922842a05e7",
         "name": "Sri Ksetra Kingdom",
         "url": "https://www.wikidata.org/wiki/Q1535245"
+    },
+    {
+        "uuid": "f62ca77d-567c-49e1-a97b-4623e1d53a38",
+        "name": "Sri Lanka",
+        "three_letter_iso_code": "LKA",
+        "two_letter_iso_code": "LK",
+        "numeric_iso_code": "144",
+        "span": {
+            "begin": "1971-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q854"
     },
     {
         "uuid": "b81b3a83-25a4-4492-95ec-72b9af1028d9",
@@ -12305,14 +11987,6 @@
         "url": "https://www.wikidata.org/wiki/Q3443999"
     },
     {
-        "uuid": "1ea4f4ce-6f96-4ef4-bca9-5e9690245ace",
-        "name": "Sudan",
-        "three_letter_iso_code": "SDN",
-        "two_letter_iso_code": "SD",
-        "numeric_iso_code": "729",
-        "url": "https://www.wikidata.org/wiki/Q1049"
-    },
-    {
         "uuid": "74cc3082-88d0-4445-b09b-cb9b969e50fd",
         "name": "Suebi",
         "url": "https://www.wikidata.org/wiki/Q155085"
@@ -12426,14 +12100,6 @@
         "url": "https://www.wikidata.org/wiki/Q2368545"
     },
     {
-        "uuid": "21ba488c-6605-48f2-9090-eb97d72fb556",
-        "name": "Suriname",
-        "three_letter_iso_code": "SUR",
-        "two_letter_iso_code": "SR",
-        "numeric_iso_code": "740",
-        "url": "https://www.wikidata.org/wiki/Q730"
-    },
-    {
         "uuid": "2f13ccf2-91d6-401f-b9d6-e3b89d41f03a",
         "name": "Suriname",
         "span": {
@@ -12452,6 +12118,15 @@
         "url": "https://www.wikidata.org/wiki/Q180773"
     },
     {
+        "uuid": "da87e523-6dc7-49d5-92c3-84ba087d9f89",
+        "name": "Swedish Empire",
+        "span": {
+            "begin": "1611-01-01T00:00:00Z",
+            "end": "1721-01-01T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q215443"
+    },
+    {
         "uuid": "1d40f977-aff7-4e21-9d2b-dd8cb2e2d8a4",
         "name": "Switzerland",
         "three_letter_iso_code": "CHE",
@@ -12463,6 +12138,14 @@
         "url": "https://www.wikidata.org/wiki/Q39"
     },
     {
+        "uuid": "1ea4f4ce-6f96-4ef4-bca9-5e9690245ace",
+        "name": "Sudan",
+        "three_letter_iso_code": "SDN",
+        "two_letter_iso_code": "SD",
+        "numeric_iso_code": "729",
+        "url": "https://www.wikidata.org/wiki/Q1049"
+    },
+    {
         "uuid": "421a5cc8-eca9-49f9-8d47-0ca238233155",
         "name": "Sweden",
         "three_letter_iso_code": "SWE",
@@ -12471,13 +12154,12 @@
         "url": "https://www.wikidata.org/wiki/Q34"
     },
     {
-        "uuid": "da87e523-6dc7-49d5-92c3-84ba087d9f89",
-        "name": "Swedish Empire",
-        "span": {
-            "begin": "1611-01-01T00:00:00Z",
-            "end": "1721-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q215443"
+        "uuid": "21ba488c-6605-48f2-9090-eb97d72fb556",
+        "name": "Suriname",
+        "three_letter_iso_code": "SUR",
+        "two_letter_iso_code": "SR",
+        "numeric_iso_code": "740",
+        "url": "https://www.wikidata.org/wiki/Q730"
     },
     {
         "uuid": "eb4dec5e-e294-4232-b4bd-84d16e34c525",
@@ -12542,6 +12224,14 @@
         "url": "https://www.wikidata.org/wiki/Q764697"
     },
     {
+        "uuid": "f44e2d79-38f2-42a3-a7cc-a78898355225",
+        "name": "Thailand",
+        "three_letter_iso_code": "THA",
+        "two_letter_iso_code": "TH",
+        "numeric_iso_code": "764",
+        "url": "https://www.wikidata.org/wiki/Q869"
+    },
+    {
         "uuid": "7ee8956e-2050-4cf4-8145-0ae9fc7979bb",
         "name": "Tajikistan",
         "three_letter_iso_code": "TJK",
@@ -12579,20 +12269,6 @@
             "end": "1962-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q431731"
-    },
-    {
-        "uuid": "702f1bf6-3da9-4f86-ba4a-fd68bcabb7ba",
-        "name": "Tanganyika",
-        "span": {
-            "begin": "1961-01-01T00:00:00Z",
-            "end": "1962-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q431731"
-    },
-    {
-        "uuid": "d24aa43c-a71c-4d09-8a3d-97260f0e217c",
-        "name": "Tanganyika Territory",
-        "url": "https://www.wikidata.org/wiki/Q158725"
     },
     {
         "uuid": "d24aa43c-a71c-4d09-8a3d-97260f0e217c",
@@ -12639,24 +12315,6 @@
             "end": "1627-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q4453007"
-    },
-    {
-        "uuid": "814452a6-60d0-4227-81c3-042154856be6",
-        "name": "Tashkent Khanate",
-        "span": {
-            "begin": "1501-01-01T00:00:00Z",
-            "end": "1627-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q4453007"
-    },
-    {
-        "uuid": "e18db624-30b1-4c45-af55-26efbd37bebe",
-        "name": "Tashkent State",
-        "span": {
-            "begin": "1784-01-01T00:00:00Z",
-            "end": "1809-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q4453003"
     },
     {
         "uuid": "e18db624-30b1-4c45-af55-26efbd37bebe",
@@ -12730,22 +12388,6 @@
         "url": "https://www.wikidata.org/wiki/Q1651832"
     },
     {
-        "uuid": "339273e9-7f4a-4c3f-805c-5be38c0a958e",
-        "name": "Togo",
-        "three_letter_iso_code": "TGO",
-        "two_letter_iso_code": "TG",
-        "numeric_iso_code": "768",
-        "url": "https://www.wikidata.org/wiki/Q945"
-    },
-    {
-        "uuid": "f44e2d79-38f2-42a3-a7cc-a78898355225",
-        "name": "Thailand",
-        "three_letter_iso_code": "THA",
-        "two_letter_iso_code": "TH",
-        "numeric_iso_code": "764",
-        "url": "https://www.wikidata.org/wiki/Q869"
-    },
-    {
         "uuid": "915ccac3-569b-4ffd-a816-d9d2430b96b4",
         "name": "Third Republic of South Korea",
         "span": {
@@ -12786,6 +12428,14 @@
         "uuid": "e0efef37-8194-4004-8343-010110d216ab",
         "name": "Tmutarakan",
         "url": "https://www.wikidata.org/wiki/Q910505"
+    },
+    {
+        "uuid": "339273e9-7f4a-4c3f-805c-5be38c0a958e",
+        "name": "Togo",
+        "three_letter_iso_code": "TGO",
+        "two_letter_iso_code": "TG",
+        "numeric_iso_code": "768",
+        "url": "https://www.wikidata.org/wiki/Q945"
     },
     {
         "uuid": "01fd1f97-1b42-447d-8877-dd76fe904e3f",
@@ -12952,14 +12602,6 @@
         "url": "https://www.wikidata.org/wiki/Q4503615"
     },
     {
-        "uuid": "bb1419fd-9fd7-43e9-9208-f86615d0ed04",
-        "name": "Tunisia",
-        "three_letter_iso_code": "TUN",
-        "two_letter_iso_code": "TN",
-        "numeric_iso_code": "788",
-        "url": "https://www.wikidata.org/wiki/Q948"
-    },
-    {
         "uuid": "25fa3d73-1299-4d46-bb7f-0d603a7c13a9",
         "name": "Turgesh",
         "url": "https://www.wikidata.org/wiki/Q1277895"
@@ -12979,6 +12621,14 @@
             "begin": "1991-00-00T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q874"
+    },
+    {
+        "uuid": "bb1419fd-9fd7-43e9-9208-f86615d0ed04",
+        "name": "Tunisia",
+        "three_letter_iso_code": "TUN",
+        "two_letter_iso_code": "TN",
+        "numeric_iso_code": "788",
+        "url": "https://www.wikidata.org/wiki/Q948"
     },
     {
         "uuid": "fe2b7b28-a301-4311-892a-873ca0c0b62e",
@@ -13042,6 +12692,45 @@
         "url": "https://www.wikidata.org/wiki/Q191369"
     },
     {
+        "uuid": "a4d772fb-82fa-422d-8abf-0b9315411c80",
+        "name": "Ukrainian National Government",
+        "url": "https://www.wikidata.org/wiki/Q4470663"
+    },
+    {
+        "uuid": "22adcf06-3e3f-4668-bd19-634423a1ae8a",
+        "name": "United Arab Emirates",
+        "three_letter_iso_code": "ARE",
+        "two_letter_iso_code": "AE",
+        "numeric_iso_code": "784",
+        "span": {
+            "begin": "1971-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q878"
+    },
+    {
+        "uuid": "09ede12d-28f9-423c-ad9c-586df63ddceb",
+        "name": "United Kingdom",
+        "three_letter_iso_code": "GBR",
+        "two_letter_iso_code": "GB",
+        "numeric_iso_code": "826",
+        "span": {
+            "begin": "1927-04-12T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q145"
+    },
+    {
+        "uuid": "fb96d9b4-95f5-4a49-ab20-9fceba6e166d",
+        "name": "United Kingdom of Great Britain and Ireland",
+        "three_letter_iso_code": "GBR",
+        "two_letter_iso_code": "GB",
+        "numeric_iso_code": "826",
+        "span": {
+            "begin": "1801-01-01T00:00:00Z",
+            "end": "1927-04-12T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q174193"
+    },
+    {
         "uuid": "ca5c23ce-de67-4f40-8599-701f345fb28b",
         "name": "Ukraine",
         "three_letter_iso_code": "UKR",
@@ -13053,17 +12742,16 @@
         "url": "https://www.wikidata.org/wiki/Q212"
     },
     {
-        "uuid": "2e5a3710-e976-4aa2-bbb6-1070c396bca2",
-        "name": "Uganda",
-        "three_letter_iso_code": "UGA",
-        "two_letter_iso_code": "UG",
-        "numeric_iso_code": "800",
-        "url": "https://www.wikidata.org/wiki/Q1036"
-    },
-    {
-        "uuid": "a4d772fb-82fa-422d-8abf-0b9315411c80",
-        "name": "Ukrainian National Government",
-        "url": "https://www.wikidata.org/wiki/Q4470663"
+        "uuid": "39f5d7e5-03fb-4106-9be7-d73b70708587",
+        "name": "Ukrainian People's Republic",
+        "three_letter_iso_code": "UKR",
+        "two_letter_iso_code": "UA",
+        "numeric_iso_code": "804",
+        "span": {
+            "begin": "1917-00-00T00:00:00Z",
+            "end": "1920-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q243610"
     },
     {
         "uuid": "4830e931-8c2a-4941-bf5a-e64d4d0ff610",
@@ -13078,13 +12766,20 @@
         "url": "https://www.wikidata.org/wiki/Q133356"
     },
     {
-        "uuid": "4830e931-8c2a-4941-bf5a-e64d4d0ff610",
-        "name": "Ukrainian Soviet Socialist Republic",
-        "span": {
-            "begin": "1919-01-01T00:00:00Z",
-            "end": "1991-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q133356"
+        "uuid": "2e5a3710-e976-4aa2-bbb6-1070c396bca2",
+        "name": "Uganda",
+        "three_letter_iso_code": "UGA",
+        "two_letter_iso_code": "UG",
+        "numeric_iso_code": "800",
+        "url": "https://www.wikidata.org/wiki/Q1036"
+    },
+    {
+        "uuid": "518da616-64c4-4338-a779-6c07d8f34891",
+        "name": "South Africa",
+        "three_letter_iso_code": "ZAF",
+        "two_letter_iso_code": "ZA",
+        "numeric_iso_code": "710",
+        "url": "https://www.wikidata.org/wiki/Q258"
     },
     {
         "uuid": "6646126b-e53b-4548-8ff1-3b521a3784b3",
@@ -13110,6 +12805,11 @@
         "url": "https://www.wikidata.org/wiki/Q27138"
     },
     {
+        "uuid": "4161f29c-ca72-4476-a57d-1b067994a13f",
+        "name": "Unified Silla",
+        "url": "https://www.wikidata.org/wiki/Q715257"
+    },
+    {
         "uuid": "8d7cc1b5-6752-4a55-8cd6-332fa0def9ac",
         "name": "Union between Sweden and Norway",
         "span": {
@@ -13126,34 +12826,6 @@
             "end": "1961-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q193619"
-    },
-    {
-        "uuid": "22adcf06-3e3f-4668-bd19-634423a1ae8a",
-        "name": "United Arab Emirates",
-        "three_letter_iso_code": "ARE",
-        "two_letter_iso_code": "AE",
-        "numeric_iso_code": "784",
-        "span": {
-            "begin": "1971-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q878"
-    },
-    {
-        "uuid": "39f5d7e5-03fb-4106-9be7-d73b70708587",
-        "name": "Ukrainian People's Republic",
-        "three_letter_iso_code": "UKR",
-        "two_letter_iso_code": "UA",
-        "numeric_iso_code": "804",
-        "span": {
-            "begin": "1917-00-00T00:00:00Z",
-            "end": "1920-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q243610"
-    },
-    {
-        "uuid": "4161f29c-ca72-4476-a57d-1b067994a13f",
-        "name": "Unified Silla",
-        "url": "https://www.wikidata.org/wiki/Q715257"
     },
     {
         "uuid": "a6fce52d-1a33-4d6d-b763-8932b96cb3b7",
@@ -13183,38 +12855,6 @@
         "url": "https://www.wikidata.org/wiki/Q376778"
     },
     {
-        "uuid": "09ede12d-28f9-423c-ad9c-586df63ddceb",
-        "name": "United Kingdom",
-        "three_letter_iso_code": "GBR",
-        "two_letter_iso_code": "GB",
-        "numeric_iso_code": "826",
-        "span": {
-            "begin": "1927-04-12T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q145"
-    },
-    {
-        "uuid": "fb96d9b4-95f5-4a49-ab20-9fceba6e166d",
-        "name": "United Kingdom of Great Britain and Ireland",
-        "span": {
-            "begin": "1801-01-01T00:00:00Z",
-            "end": "1927-04-12T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q174193"
-    },
-    {
-        "uuid": "fb96d9b4-95f5-4a49-ab20-9fceba6e166d",
-        "name": "United Kingdom of Great Britain and Ireland",
-        "three_letter_iso_code": "GBR",
-        "two_letter_iso_code": "GB",
-        "numeric_iso_code": "826",
-        "span": {
-            "begin": "1801-01-01T00:00:00Z",
-            "end": "1927-04-12T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q174193"
-    },
-    {
         "uuid": "04ef5bb4-c247-4085-bf2d-e596f71b2e89",
         "name": "United Kingdom of Portugal, Brazil and the Algarves",
         "span": {
@@ -13222,15 +12862,6 @@
             "end": "1822-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q903779"
-    },
-    {
-        "uuid": "aa0b72d3-e535-471a-8b32-e5428ed01cde",
-        "name": "United Kingdom of the Netherlands",
-        "span": {
-            "begin": "1815-01-01T00:00:00Z",
-            "end": "1839-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q15864"
     },
     {
         "uuid": "aa0b72d3-e535-471a-8b32-e5428ed01cde",
@@ -13307,14 +12938,6 @@
         "uuid": "b0bea8b9-c0ca-4ca5-8d09-2b347e9e87a8",
         "name": "United States of Poland",
         "url": "https://www.wikidata.org/wiki/Q211358"
-    },
-    {
-        "uuid": "6f332be0-f4aa-4d72-abf8-fc117955aff7",
-        "name": "United States of Stellaland",
-        "span": {
-            "begin": "1883-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1362278"
     },
     {
         "uuid": "6f332be0-f4aa-4d72-abf8-fc117955aff7",
@@ -13425,6 +13048,14 @@
         "url": "https://www.wikidata.org/wiki/Q605199"
     },
     {
+        "uuid": "e9890ebc-6c24-4e72-93db-91ace7df4bda",
+        "name": "Vanuatu",
+        "three_letter_iso_code": "VUT",
+        "two_letter_iso_code": "VU",
+        "numeric_iso_code": "548",
+        "url": "https://www.wikidata.org/wiki/Q686"
+    },
+    {
         "uuid": "c9138c88-e1e7-41ed-9457-d2ddeaa4d697",
         "name": "Varendra",
         "url": "https://www.wikidata.org/wiki/Q3347092"
@@ -13448,18 +13079,6 @@
         "url": "https://www.wikidata.org/wiki/Q1331184"
     },
     {
-        "uuid": "815aeff5-c257-4af6-a1f7-af1778f19d9e",
-        "name": "West Indies Federation",
-        "three_letter_iso_code": "VCT",
-        "two_letter_iso_code": "VC",
-        "numeric_iso_code": "670",
-        "span": {
-            "begin": "1958-00-00T00:00:00Z",
-            "end": "1962-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q652560"
-    },
-    {
         "uuid": "12ae0688-35af-4982-be70-2cfa0ff2900e",
         "name": "Venezuela",
         "three_letter_iso_code": "VEN",
@@ -13469,25 +13088,6 @@
             "begin": "1811-01-01T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q717"
-    },
-    {
-        "uuid": "28cea4fa-694a-4c7b-9098-dc3b2f5ed679",
-        "name": "Vietnam",
-        "three_letter_iso_code": "VNM",
-        "two_letter_iso_code": "VN",
-        "numeric_iso_code": "704",
-        "span": {
-            "begin": "1976-00-00T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q881"
-    },
-    {
-        "uuid": "e9890ebc-6c24-4e72-93db-91ace7df4bda",
-        "name": "Vanuatu",
-        "three_letter_iso_code": "VUT",
-        "two_letter_iso_code": "VU",
-        "numeric_iso_code": "548",
-        "url": "https://www.wikidata.org/wiki/Q686"
     },
     {
         "uuid": "99856640-2227-4ba1-9559-cae0a94bfe3d",
@@ -13502,6 +13102,17 @@
         "uuid": "45a36262-ef55-48b3-a4c6-9ec904cf2828",
         "name": "Vidarbha",
         "url": "https://www.wikidata.org/wiki/Q568561"
+    },
+    {
+        "uuid": "28cea4fa-694a-4c7b-9098-dc3b2f5ed679",
+        "name": "Vietnam",
+        "three_letter_iso_code": "VNM",
+        "two_letter_iso_code": "VN",
+        "numeric_iso_code": "704",
+        "span": {
+            "begin": "1976-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q881"
     },
     {
         "uuid": "aeb9dab9-d83e-4ad8-a837-a039e189b302",
@@ -13629,15 +13240,6 @@
         "url": "https://www.wikidata.org/wiki/Q2554365"
     },
     {
-        "uuid": "cf9f3134-1be8-4fde-8db1-70125f87c7bf",
-        "name": "Wei",
-        "span": {
-            "begin": "0388-01-01T00:00:00Z",
-            "end": "0392-01-01T00:00:00Z"
-        },
-        "url": "https://www.wikidata.org/wiki/Q1327602"
-    },
-    {
         "uuid": "cc166b87-36c0-4bd2-a576-39ae867610c6",
         "name": "Wei",
         "span": {
@@ -13647,13 +13249,13 @@
         "url": "https://www.wikidata.org/wiki/Q912052"
     },
     {
-        "uuid": "c0bab29e-9346-4dc7-9a91-8f10477b0208",
-        "name": "Weimar Republic",
+        "uuid": "cf9f3134-1be8-4fde-8db1-70125f87c7bf",
+        "name": "Wei",
         "span": {
-            "begin": "1919-01-01T00:00:00Z",
-            "end": "1933-01-01T00:00:00Z"
+            "begin": "0388-01-01T00:00:00Z",
+            "end": "0392-01-01T00:00:00Z"
         },
-        "url": "https://www.wikidata.org/wiki/Q41304"
+        "url": "https://www.wikidata.org/wiki/Q1327602"
     },
     {
         "uuid": "c0bab29e-9346-4dc7-9a91-8f10477b0208",
@@ -13732,6 +13334,18 @@
         "uuid": "7b24504e-5cdb-4007-91b2-10980d8335c9",
         "name": "West Francia",
         "url": "https://www.wikidata.org/wiki/Q46370"
+    },
+    {
+        "uuid": "815aeff5-c257-4af6-a1f7-af1778f19d9e",
+        "name": "West Indies Federation",
+        "three_letter_iso_code": "VCT",
+        "two_letter_iso_code": "VC",
+        "numeric_iso_code": "670",
+        "span": {
+            "begin": "1958-00-00T00:00:00Z",
+            "end": "1962-00-00T00:00:00Z"
+        },
+        "url": "https://www.wikidata.org/wiki/Q652560"
     },
     {
         "uuid": "8e1cb224-d589-467d-a017-a22285a952c7",
@@ -13840,11 +13454,6 @@
         "url": "https://www.wikidata.org/wiki/Q1188046"
     },
     {
-        "uuid": "dbfbc559-b930-4dbb-af79-e7c442f49e89",
-        "name": "Yan",
-        "url": "https://www.wikidata.org/wiki/Q1291919"
-    },
-    {
         "uuid": "72999023-8e1a-48bc-8e09-89caab0e34f5",
         "name": "Yan",
         "span": {
@@ -13852,6 +13461,11 @@
             "end": "-0223-11-26T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q1055713"
+    },
+    {
+        "uuid": "dbfbc559-b930-4dbb-af79-e7c442f49e89",
+        "name": "Yan",
+        "url": "https://www.wikidata.org/wiki/Q1291919"
     },
     {
         "uuid": "b43ba5b7-0366-4f96-b8e9-e60ede8ff894",
