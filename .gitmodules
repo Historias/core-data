@@ -1,0 +1,3 @@
+[submodule "wikidata"]
+	path = wikidata
+	url = git@github.com:Historias/core-data-wikidata.git
