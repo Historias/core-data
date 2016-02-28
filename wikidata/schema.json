@@ -1,0 +1,36 @@
+{
+  "title": "History aware countries",
+  "type": "array",
+  "items": {
+    "title": "Country",
+    "properties": {
+      "iso_3_code": {
+        "type": "string",
+        "description": "ISO 3166-1 alpha-3 code",
+        "pattern": "^[A-Z]{3}$"
+      },
+      "iso_2_code": {
+        "type": "string",
+        "description": "ISO 3166-1 alpha-2 code",
+        "pattern": "^[A-Z]{2}$"
+      },
+      "iso_numeric_code": {
+        "type": "string",
+        "description": "ISO 3166-1 numeric code",
+        "pattern": "^[0-9]{3}$"
+      },
+      "duration": {
+        "type": "object",
+        "properties": {
+          "begin": {
+            "type": "string"
+          },
+          "end": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["name", "iso_3_code", "iso_2_code", "iso_numeric_code"]
+    }
+  }
+}
