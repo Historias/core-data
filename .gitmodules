@@ -1,3 +1,6 @@
 [submodule "wikidata"]
 	path = wikidata
 	url = git@github.com:Historias/core-data-wikidata.git
+[submodule "iso"]
+	path = iso
+	url = git@github.com:Historias/core-data-iso.git
