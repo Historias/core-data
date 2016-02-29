@@ -1467,8 +1467,8 @@
         "uuid": "559cc982-7635-41ba-a007-1d14dc281bd6",
         "name": "California Republic",
         "span": {
-            "begin": "1846-01-01T00:00:00Z",
-            "end": "1846-01-01T00:00:00Z"
+            "begin": "1846-06-14T00:00:00Z",
+            "end": "1846-07-09T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q17557"
     },
@@ -3156,7 +3156,7 @@
         "numeric_iso_code": "278",
         "span": {
             "begin": "1949-10-07T00:00:00Z",
-            "end": "1990-10-02T00:00:00Z"
+            "end": "1990-10-03T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q16957"
     },
@@ -10816,8 +10816,8 @@
         "uuid": "5b4109f5-307e-4713-bbc0-26250a4ce2fd",
         "name": "Russian Empire",
         "span": {
-            "begin": "1721-11-02T00:00:00Z",
-            "end": "1917-09-14T00:00:00Z"
+            "begin": "1721-10-22T00:00:00Z",
+            "end": "1917-00-00T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q34266"
     },
@@ -12133,7 +12133,7 @@
         "two_letter_iso_code": "CH",
         "numeric_iso_code": "756",
         "span": {
-            "begin": "1291-00-00T00:00:00Z"
+            "begin": "1848-09-12T00:00:00Z"
         },
         "url": "https://www.wikidata.org/wiki/Q39"
     },
